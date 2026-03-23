@@ -167,6 +167,7 @@ Individual messages are tagged with up to **2 glyphs**: one for their primary re
 | `parse-telegram.mjs` | HTML → JSON | `telegram/messages*.html` | `normalized_messages.json` |
 | `analyze-data.mjs` | Concept extraction, clustering, actor profiling | `normalized_messages.json` | `concepts.json`, `clusters.json`, `actors.json`, `graph_edges.json`, `timeline_states.json` |
 | `meaning-evolution.mjs` | Glyph tagging, sessions, resonance | All Pass 2 outputs | `meaning_tags.json`, `sessions.json`, `resonance.json`, `edge_meaning.json` |
+| `detect-harmonics.mjs` | Latent cross-cluster connections | All Pass 2 outputs | `harmonics.json` |
 
 ### Run the full pipeline
 
@@ -179,6 +180,9 @@ node scripts/analyze-data.mjs
 
 # Step 3: Meaning evolution layer
 node scripts/meaning-evolution.mjs
+
+# Step 4: Detect harmonic connections
+node scripts/detect-harmonics.mjs
 ```
 
 ---
@@ -200,6 +204,7 @@ npm install
 node scripts/parse-telegram.mjs
 node scripts/analyze-data.mjs
 node scripts/meaning-evolution.mjs
+node scripts/detect-harmonics.mjs
 
 # Start dev server
 npm run dev
@@ -261,6 +266,7 @@ bonfire/
 │   ├── parse-telegram.mjs      # HTML → normalized JSON
 │   ├── analyze-data.mjs        # Pass 2: concepts, clusters, actors
 │   ├── meaning-evolution.mjs   # Pass 3: glyphs, sessions, resonance
+│   ├── detect-harmonics.mjs    # Pass 4: latent cross-cluster connections
 │   └── inspect.mjs             # Data inspection utility
 ├── src/
 │   ├── App.jsx                 # Main orchestrator

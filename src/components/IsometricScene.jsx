@@ -460,9 +460,59 @@ const ActorBeacon = memo(function ActorBeacon({
   );
 });
 
+// ── Harmonic colors and rendering threshold ────────────────────
+const HARMONIC_COLORS = {
+  resonance: '#60a5fa',
+  tension: '#f87171',
+  echo: '#a78bfa',
+  braid: '#fbbf24',
+};
+const MIN_RENDER_CONFIDENCE = 0.3;
+
+// ── Harmonic Arc ───────────────────────────────────────────────
+const HarmonicArc = memo(function HarmonicArc({
+  harmonic, sourcePos, targetPos, selected, onClick,
+}) {
+  const color = HARMONIC_COLORS[harmonic.type] || '#94a3b8';
+  const opacity = Math.max(0.15, harmonic.confidence * 0.7);
+
+  // Arc midpoint raised in Y for visual separation
+  const midX = (sourcePos[0] + targetPos[0]) / 2;
+  const midZ = (sourcePos[2] + targetPos[2]) / 2;
+  const dx = targetPos[0] - sourcePos[0];
+  const dz = targetPos[2] - sourcePos[2];
+  const dist = Math.sqrt(dx * dx + dz * dz);
+  const arcHeight = 0.5 + dist * 0.08;
+
+  const points = useMemo(() => [
+    [sourcePos[0], 0.5, sourcePos[2]],
+    [midX, arcHeight, midZ],
+    [targetPos[0], 0.5, targetPos[2]],
+  ], [sourcePos, targetPos, midX, midZ, arcHeight]);
+
+  const handleClick = useCallback(
+    (e) => { e.stopPropagation(); onClick(harmonic); },
+    [onClick, harmonic]
+  );
+
+  return (
+    <Line
+      points={points}
+      color={color}
+      lineWidth={selected ? 2.5 : 1.2}
+      transparent
+      opacity={selected ? 0.9 : opacity}
+      dashed
+      dashSize={0.4}
+      gapSize={0.3}
+      onClick={handleClick}
+    />
+  );
+});
+
 // ── Scene Content ──────────────────────────────────────────
 function SceneContent({
-  data, lookups, filters, timeRange, selectedNode, onSelectNode, focusedConcept, focusedActor,
+  data, lookups, filters, timeRange, selectedNode, onSelectNode, focusedConcept, focusedActor, harmonics,
 }) {
   const { concepts, actors, clusters } = data;
 
@@ -616,6 +666,28 @@ function SceneContent({
         />
       ))}
 
+      {/* Harmonic arcs — dashed lines between clusters */}
+      {filters.showHarmonics && harmonics && harmonics.length > 0 && (() => {
+        const clusterPosMap = new Map();
+        for (const cp of clusterPositions) clusterPosMap.set(cp.id, cp.position);
+        const visible = harmonics.filter(h =>
+          h.confidence >= MIN_RENDER_CONFIDENCE &&
+          clusterPosMap.has(h.source_cluster_id) &&
+          clusterPosMap.has(h.target_cluster_id)
+        );
+        return visible.map(h => (
+          <HarmonicArc
+            key={h.id}
+            harmonic={h}
+            sourcePos={clusterPosMap.get(h.source_cluster_id)}
+            targetPos={clusterPosMap.get(h.target_cluster_id)}
+            selected={selectedNode?.type === 'harmonic' && selectedNode?.id === h.id}
+            onClick={(harm) => onSelectNode({ type: 'harmonic', id: harm.id, data: harm })}
+          />
+        ));
+      })()}
+
+
       <OrbitControls
         enablePan enableZoom enableRotate
         maxPolarAngle={Math.PI / 2.3}
@@ -630,6 +702,7 @@ function SceneContent({
 
 // ── Canvas Wrapper ─────────────────────────────────────────
 export default function IsometricScene(props) {
+  const { harmonics, ...rest } = props;
   return (
     <Canvas
       className="scene-canvas"
@@ -637,7 +710,7 @@ export default function IsometricScene(props) {
       gl={{ antialias: true, alpha: false }}
       onCreated={({ gl }) => gl.setClearColor('#060a14')}
     >
-      <SceneContent {...props} />
+      <SceneContent {...rest} harmonics={harmonics} />
     </Canvas>
   );
 }

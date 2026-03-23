@@ -23,6 +23,7 @@ export default function App() {
     highlightGrounded: false,
     highlightCaution: false,
     showGlyphs: false,
+    showHarmonics: false,
   });
 
   const handleFilterChange = useCallback((key, value) => {
@@ -82,6 +83,7 @@ export default function App() {
           onSelectNode={handleSelectNode}
           focusedConcept={focusedConcept}
           focusedActor={focusedActor}
+          harmonics={data.harmonics}
         />
 
         <ControlBar

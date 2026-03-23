@@ -58,6 +58,12 @@ export default function ControlBar({
         >
           ◈ Glyphs
         </button>
+        <button
+          className={`control-btn ${filters.showHarmonics ? 'active harmonic-btn' : ''}`}
+          onClick={() => onFilterChange('showHarmonics', !filters.showHarmonics)}
+        >
+          ∿ Harmonics
+        </button>
       </div>
 
       <div className="control-group">

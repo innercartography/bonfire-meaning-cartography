@@ -988,3 +988,12 @@ body::before {
   color: #c4b5fd;
   background: rgba(139, 92, 246, 0.08);
 }
+
+/* ============================================================
+   Harmonic Overlay
+   ============================================================ */
+.control-btn.harmonic-btn.active {
+  border-color: #fbbf24;
+  color: #fbbf24;
+  background: linear-gradient(135deg, rgba(96, 165, 250, 0.08), rgba(251, 191, 36, 0.08));
+}

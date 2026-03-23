@@ -571,6 +571,100 @@ function ClusterDetail({ cluster, lookups, onSelectNode, resonance, sessions }) 
   );
 }
 
+// ── Harmonic Detail ────────────────────────────────────────
+const HARMONIC_TYPE_COLORS = {
+  resonance: '#60a5fa',
+  tension: '#f87171',
+  echo: '#a78bfa',
+  braid: '#fbbf24',
+};
+
+function HarmonicDetail({ harmonic, lookups, onSelectNode }) {
+  const typeColor = HARMONIC_TYPE_COLORS[harmonic.type] || '#94a3b8';
+  const srcCluster = lookups.clusterById.get(harmonic.source_cluster_id);
+  const tgtCluster = lookups.clusterById.get(harmonic.target_cluster_id);
+
+  return (
+    <>
+      <div className="panel-header">
+        <div className="panel-header-top">
+          <span className="panel-type-badge" style={{ background: typeColor, color: '#0f172a' }}>
+            {harmonic.type}
+          </span>
+          <span style={{ fontSize: '11px', color: '#94a3b8' }}>Harmonic</span>
+        </div>
+        <div className="panel-title" style={{ fontSize: '14px' }}>
+          {harmonic.source_cluster_label} ↔ {harmonic.target_cluster_label}
+        </div>
+      </div>
+      <div className="panel-body">
+        {/* Explanation */}
+        <div className="panel-section">
+          <div className="panel-text" style={{ fontStyle: 'italic', color: '#94a3b8' }}>
+            {harmonic.explanation}
+          </div>
+        </div>
+
+        {/* Confidence */}
+        <div className="panel-section">
+          <div className="panel-section-title">Confidence</div>
+          <ScoreBar label="Confidence" value={harmonic.confidence} type="grounded" />
+        </div>
+
+        {/* Signals */}
+        <div className="panel-section">
+          <div className="panel-section-title">Contributing Signals</div>
+          <div className="stats-grid">
+            <div className="stat-item">
+              <div className="stat-label">Concept Overlap</div>
+              <div className="stat-value">{harmonic.signals.concept_overlap}</div>
+            </div>
+            <div className="stat-item">
+              <div className="stat-label">Shared Actors</div>
+              <div className="stat-value">{harmonic.signals.shared_actors}</div>
+            </div>
+            <div className="stat-item">
+              <div className="stat-label">Temporal Overlap</div>
+              <div className="stat-value">{harmonic.signals.temporal_overlap} weeks</div>
+            </div>
+            <div className="stat-item">
+              <div className="stat-label">Weak Paths</div>
+              <div className="stat-value">{harmonic.signals.weak_paths} / 3</div>
+            </div>
+          </div>
+        </div>
+
+        {/* Cluster links */}
+        <div className="panel-section">
+          <div className="panel-section-title">Connected Clusters</div>
+          <div
+            className="related-message clickable"
+            onClick={() => srcCluster && onSelectNode({ type: 'cluster', id: srcCluster.id, data: srcCluster })}
+          >
+            <div className="related-message-meta">
+              <span>{harmonic.source_cluster_label}</span>
+            </div>
+            <div className="related-message-text" style={{ color: '#64748b', fontSize: '10px' }}>
+              {harmonic.source_cluster_id}
+            </div>
+          </div>
+          <div
+            className="related-message clickable"
+            onClick={() => tgtCluster && onSelectNode({ type: 'cluster', id: tgtCluster.id, data: tgtCluster })}
+          >
+            <div className="related-message-meta">
+              <span>{harmonic.target_cluster_label}</span>
+            </div>
+            <div className="related-message-text" style={{ color: '#64748b', fontSize: '10px' }}>
+              {harmonic.target_cluster_id}
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+}
+
 // ── Main Panel ─────────────────────────────────────────────
 export default function InsightPanel({ selectedNode, lookups, onClose, onSelectNode, onFocusConcept, onFocusActor, data }) {
   const resonance = data?.resonance;
@@ -601,6 +695,7 @@ export default function InsightPanel({ selectedNode, lookups, onClose, onSelectN
       {type === 'concept' && <ConceptDetail concept={nodeData} lookups={lookups} onSelectNode={onSelectNode} onFocusConcept={onFocusConcept} />}
       {type === 'actor' && <ActorDetail actor={nodeData} lookups={lookups} onSelectNode={onSelectNode} onFocusActor={onFocusActor} resonance={resonance} />}
       {type === 'cluster' && <ClusterDetail cluster={nodeData} lookups={lookups} onSelectNode={onSelectNode} resonance={resonance} sessions={sessions} />}
+      {type === 'harmonic' && <HarmonicDetail harmonic={nodeData} lookups={lookups} onSelectNode={onSelectNode} />}
     </div>
   );
 }
