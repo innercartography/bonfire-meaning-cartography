@@ -1,0 +1,1210 @@
+[
+  {
+    "week": "2025-W23",
+    "era": "early",
+    "message_count": 19,
+    "active_authors": 6,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 6
+      },
+      {
+        "concept_id": "concept_cosmolocal",
+        "count": 1
+      }
+    ],
+    "avg_groundedness": 0.035,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W24",
+    "era": "early",
+    "message_count": 5,
+    "active_authors": 3,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 1
+      },
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 1
+      }
+    ],
+    "avg_groundedness": 0.2,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W25",
+    "era": "early",
+    "message_count": 28,
+    "active_authors": 8,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 6
+      }
+    ],
+    "avg_groundedness": 0.012,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W26",
+    "era": "early",
+    "message_count": 155,
+    "active_authors": 36,
+    "top_concepts": [
+      {
+        "concept_id": "concept_trust",
+        "count": 24
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 8
+      },
+      {
+        "concept_id": "concept_coordination",
+        "count": 4
+      },
+      {
+        "concept_id": "concept_ethereum",
+        "count": 4
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 3
+      }
+    ],
+    "avg_groundedness": 0.037,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W27",
+    "era": "early",
+    "message_count": 184,
+    "active_authors": 37,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 8
+      },
+      {
+        "concept_id": "concept_coordination",
+        "count": 7
+      },
+      {
+        "concept_id": "concept_memory",
+        "count": 6
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 3
+      },
+      {
+        "concept_id": "concept_network",
+        "count": 2
+      }
+    ],
+    "avg_groundedness": 0.034,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W28",
+    "era": "early",
+    "message_count": 407,
+    "active_authors": 35,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 17
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 8
+      },
+      {
+        "concept_id": "concept_trust",
+        "count": 5
+      },
+      {
+        "concept_id": "concept_blockchain",
+        "count": 4
+      },
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 3
+      }
+    ],
+    "avg_groundedness": 0.038,
+    "avg_abstraction": 0.004
+  },
+  {
+    "week": "2025-W29",
+    "era": "early",
+    "message_count": 171,
+    "active_authors": 36,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 3
+      },
+      {
+        "concept_id": "concept_network",
+        "count": 2
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 2
+      }
+    ],
+    "avg_groundedness": 0.037,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W30",
+    "era": "early",
+    "message_count": 180,
+    "active_authors": 24,
+    "top_concepts": [
+      {
+        "concept_id": "concept_community",
+        "count": 5
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 3
+      },
+      {
+        "concept_id": "concept_ethereum",
+        "count": 3
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 2
+      },
+      {
+        "concept_id": "concept_token",
+        "count": 2
+      }
+    ],
+    "avg_groundedness": 0.015,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W31",
+    "era": "early",
+    "message_count": 189,
+    "active_authors": 29,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ethereum",
+        "count": 4
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 2
+      },
+      {
+        "concept_id": "concept_web3",
+        "count": 2
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 1
+      },
+      {
+        "concept_id": "concept_dao",
+        "count": 1
+      }
+    ],
+    "avg_groundedness": 0.019,
+    "avg_abstraction": 0.003
+  },
+  {
+    "week": "2025-W32",
+    "era": "early",
+    "message_count": 54,
+    "active_authors": 18,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ethereum",
+        "count": 3
+      },
+      {
+        "concept_id": "concept_token",
+        "count": 2
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 1
+      },
+      {
+        "concept_id": "concept_network",
+        "count": 1
+      },
+      {
+        "concept_id": "concept_web3",
+        "count": 1
+      }
+    ],
+    "avg_groundedness": 0.049,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W33",
+    "era": "early",
+    "message_count": 184,
+    "active_authors": 21,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 6
+      },
+      {
+        "concept_id": "concept_ethereum",
+        "count": 4
+      },
+      {
+        "concept_id": "concept_coordination",
+        "count": 2
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 2
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 1
+      }
+    ],
+    "avg_groundedness": 0.031,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W34",
+    "era": "early",
+    "message_count": 67,
+    "active_authors": 16,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 3
+      },
+      {
+        "concept_id": "concept_collective_intelligence",
+        "count": 1
+      },
+      {
+        "concept_id": "concept_ethereum",
+        "count": 1
+      },
+      {
+        "concept_id": "concept_web3",
+        "count": 1
+      }
+    ],
+    "avg_groundedness": 0.035,
+    "avg_abstraction": 0
+  },
+  {
+    "week": "2025-W35",
+    "era": "early",
+    "message_count": 458,
+    "active_authors": 33,
+    "top_concepts": [
+      {
+        "concept_id": "concept_community",
+        "count": 38
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 27
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 18
+      },
+      {
+        "concept_id": "concept_decentralization",
+        "count": 18
+      },
+      {
+        "concept_id": "concept_blockchain",
+        "count": 17
+      }
+    ],
+    "avg_groundedness": 0.039,
+    "avg_abstraction": 0.016
+  },
+  {
+    "week": "2025-W36",
+    "era": "early",
+    "message_count": 352,
+    "active_authors": 20,
+    "top_concepts": [
+      {
+        "concept_id": "concept_community",
+        "count": 22
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 21
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 18
+      },
+      {
+        "concept_id": "concept_coordination",
+        "count": 12
+      },
+      {
+        "concept_id": "concept_governance",
+        "count": 10
+      }
+    ],
+    "avg_groundedness": 0.038,
+    "avg_abstraction": 0.016
+  },
+  {
+    "week": "2025-W37",
+    "era": "early",
+    "message_count": 295,
+    "active_authors": 13,
+    "top_concepts": [
+      {
+        "concept_id": "concept_community",
+        "count": 29
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 28
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 18
+      },
+      {
+        "concept_id": "concept_governance",
+        "count": 16
+      },
+      {
+        "concept_id": "concept_collective_intelligence",
+        "count": 13
+      }
+    ],
+    "avg_groundedness": 0.028,
+    "avg_abstraction": 0.02
+  },
+  {
+    "week": "2025-W38",
+    "era": "middle",
+    "message_count": 391,
+    "active_authors": 19,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 59
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 43
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 34
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 27
+      },
+      {
+        "concept_id": "concept_memory",
+        "count": 25
+      }
+    ],
+    "avg_groundedness": 0.044,
+    "avg_abstraction": 0.086
+  },
+  {
+    "week": "2025-W39",
+    "era": "middle",
+    "message_count": 392,
+    "active_authors": 19,
+    "top_concepts": [
+      {
+        "concept_id": "concept_community",
+        "count": 39
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 35
+      },
+      {
+        "concept_id": "concept_collective_intelligence",
+        "count": 29
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 22
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 19
+      }
+    ],
+    "avg_groundedness": 0.041,
+    "avg_abstraction": 0.071
+  },
+  {
+    "week": "2025-W40",
+    "era": "middle",
+    "message_count": 847,
+    "active_authors": 20,
+    "top_concepts": [
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 102
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 100
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 92
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 87
+      },
+      {
+        "concept_id": "concept_framework",
+        "count": 85
+      }
+    ],
+    "avg_groundedness": 0.111,
+    "avg_abstraction": 0.074
+  },
+  {
+    "week": "2025-W41",
+    "era": "middle",
+    "message_count": 308,
+    "active_authors": 13,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 52
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 47
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 46
+      },
+      {
+        "concept_id": "concept_framework",
+        "count": 45
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 33
+      }
+    ],
+    "avg_groundedness": 0.08,
+    "avg_abstraction": 0.131
+  },
+  {
+    "week": "2025-W42",
+    "era": "middle",
+    "message_count": 166,
+    "active_authors": 16,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 44
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 29
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 25
+      },
+      {
+        "concept_id": "concept_token",
+        "count": 24
+      },
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 23
+      }
+    ],
+    "avg_groundedness": 0.098,
+    "avg_abstraction": 0.063
+  },
+  {
+    "week": "2025-W43",
+    "era": "middle",
+    "message_count": 127,
+    "active_authors": 13,
+    "top_concepts": [
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 27
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 24
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 21
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 18
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 15
+      }
+    ],
+    "avg_groundedness": 0.152,
+    "avg_abstraction": 0.063
+  },
+  {
+    "week": "2025-W44",
+    "era": "middle",
+    "message_count": 151,
+    "active_authors": 12,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 27
+      },
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 19
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 19
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 18
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 18
+      }
+    ],
+    "avg_groundedness": 0.106,
+    "avg_abstraction": 0.06
+  },
+  {
+    "week": "2025-W45",
+    "era": "middle",
+    "message_count": 75,
+    "active_authors": 11,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 18
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 17
+      },
+      {
+        "concept_id": "concept_network",
+        "count": 11
+      },
+      {
+        "concept_id": "concept_framework",
+        "count": 11
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 9
+      }
+    ],
+    "avg_groundedness": 0.116,
+    "avg_abstraction": 0.073
+  },
+  {
+    "week": "2025-W46",
+    "era": "middle",
+    "message_count": 86,
+    "active_authors": 13,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 12
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 12
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 11
+      },
+      {
+        "concept_id": "concept_framework",
+        "count": 10
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 8
+      }
+    ],
+    "avg_groundedness": 0.07,
+    "avg_abstraction": 0.093
+  },
+  {
+    "week": "2025-W47",
+    "era": "middle",
+    "message_count": 144,
+    "active_authors": 12,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 18
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 18
+      },
+      {
+        "concept_id": "concept_node",
+        "count": 10
+      },
+      {
+        "concept_id": "concept_framework",
+        "count": 7
+      },
+      {
+        "concept_id": "concept_narrative",
+        "count": 7
+      }
+    ],
+    "avg_groundedness": 0.12,
+    "avg_abstraction": 0.056
+  },
+  {
+    "week": "2025-W48",
+    "era": "late",
+    "message_count": 141,
+    "active_authors": 12,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 17
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 16
+      },
+      {
+        "concept_id": "concept_node",
+        "count": 14
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 12
+      },
+      {
+        "concept_id": "concept_blockchain",
+        "count": 11
+      }
+    ],
+    "avg_groundedness": 0.069,
+    "avg_abstraction": 0.145
+  },
+  {
+    "week": "2025-W49",
+    "era": "late",
+    "message_count": 146,
+    "active_authors": 16,
+    "top_concepts": [
+      {
+        "concept_id": "concept_archetype",
+        "count": 12
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 11
+      },
+      {
+        "concept_id": "concept_narrative",
+        "count": 11
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 10
+      },
+      {
+        "concept_id": "concept_storyliving",
+        "count": 9
+      }
+    ],
+    "avg_groundedness": 0.062,
+    "avg_abstraction": 0.086
+  },
+  {
+    "week": "2025-W50",
+    "era": "late",
+    "message_count": 173,
+    "active_authors": 16,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 38
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 30
+      },
+      {
+        "concept_id": "concept_framework",
+        "count": 23
+      },
+      {
+        "concept_id": "concept_community",
+        "count": 20
+      },
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 20
+      }
+    ],
+    "avg_groundedness": 0.183,
+    "avg_abstraction": 0.179
+  },
+  {
+    "week": "2025-W51",
+    "era": "late",
+    "message_count": 40,
+    "active_authors": 8,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 16
+      },
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 16
+      },
+      {
+        "concept_id": "concept_coordination",
+        "count": 13
+      },
+      {
+        "concept_id": "concept_trust",
+        "count": 12
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 9
+      }
+    ],
+    "avg_groundedness": 0.283,
+    "avg_abstraction": 0.063
+  },
+  {
+    "week": "2025-W52",
+    "era": "late",
+    "message_count": 54,
+    "active_authors": 10,
+    "top_concepts": [
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 11
+      },
+      {
+        "concept_id": "concept_coordination",
+        "count": 10
+      },
+      {
+        "concept_id": "concept_framework",
+        "count": 10
+      },
+      {
+        "concept_id": "concept_token",
+        "count": 10
+      },
+      {
+        "concept_id": "concept_protocol",
+        "count": 6
+      }
+    ],
+    "avg_groundedness": 0.16,
+    "avg_abstraction": 0.083
+  },
+  {
+    "week": "2026-W00",
+    "era": "late",
+    "message_count": 174,
+    "active_authors": 14,
+    "top_concepts": [
+      {
+        "concept_id": "concept_network",
+        "count": 29
+      },
+      {
+        "concept_id": "concept_coordination",
+        "count": 27
+      },
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 24
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 23
+      },
+      {
+        "concept_id": "concept_trust",
+        "count": 16
+      }
+    ],
+    "avg_groundedness": 0.144,
+    "avg_abstraction": 0.083
+  },
+  {
+    "week": "2026-W01",
+    "era": "late",
+    "message_count": 230,
+    "active_authors": 15,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 46
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 44
+      },
+      {
+        "concept_id": "concept_data",
+        "count": 37
+      },
+      {
+        "concept_id": "concept_network",
+        "count": 32
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 31
+      }
+    ],
+    "avg_groundedness": 0.21,
+    "avg_abstraction": 0.141
+  },
+  {
+    "week": "2026-W02",
+    "era": "late",
+    "message_count": 77,
+    "active_authors": 10,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 15
+      },
+      {
+        "concept_id": "concept_network",
+        "count": 13
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 12
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 12
+      },
+      {
+        "concept_id": "concept_sovereignty",
+        "count": 12
+      }
+    ],
+    "avg_groundedness": 0.16,
+    "avg_abstraction": 0.084
+  },
+  {
+    "week": "2026-W03",
+    "era": "late",
+    "message_count": 69,
+    "active_authors": 13,
+    "top_concepts": [
+      {
+        "concept_id": "concept_coordination",
+        "count": 20
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 15
+      },
+      {
+        "concept_id": "concept_network",
+        "count": 15
+      },
+      {
+        "concept_id": "concept_data",
+        "count": 12
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 9
+      }
+    ],
+    "avg_groundedness": 0.193,
+    "avg_abstraction": 0.116
+  },
+  {
+    "week": "2026-W04",
+    "era": "late",
+    "message_count": 170,
+    "active_authors": 12,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 53
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 28
+      },
+      {
+        "concept_id": "concept_collective_intelligence",
+        "count": 27
+      },
+      {
+        "concept_id": "concept_data",
+        "count": 26
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 25
+      }
+    ],
+    "avg_groundedness": 0.178,
+    "avg_abstraction": 0.194
+  },
+  {
+    "week": "2026-W05",
+    "era": "late",
+    "message_count": 199,
+    "active_authors": 17,
+    "top_concepts": [
+      {
+        "concept_id": "concept_ai",
+        "count": 42
+      },
+      {
+        "concept_id": "concept_graph",
+        "count": 41
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 31
+      },
+      {
+        "concept_id": "concept_data",
+        "count": 31
+      },
+      {
+        "concept_id": "concept_agent",
+        "count": 26
+      }
+    ],
+    "avg_groundedness": 0.173,
+    "avg_abstraction": 0.088
+  },
+  {
+    "week": "2026-W06",
+    "era": "late",
+    "message_count": 130,
+    "active_authors": 16,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 23
+      },
+      {
+        "concept_id": "concept_node",
+        "count": 20
+      },
+      {
+        "concept_id": "concept_infrastructure",
+        "count": 19
+      },
+      {
+        "concept_id": "concept_sovereignty",
+        "count": 19
+      },
+      {
+        "concept_id": "concept_collective_intelligence",
+        "count": 18
+      }
+    ],
+    "avg_groundedness": 0.144,
+    "avg_abstraction": 0.223
+  },
+  {
+    "week": "2026-W07",
+    "era": "late",
+    "message_count": 262,
+    "active_authors": 21,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 79
+      },
+      {
+        "concept_id": "concept_coordination",
+        "count": 52
+      },
+      {
+        "concept_id": "concept_node",
+        "count": 50
+      },
+      {
+        "concept_id": "concept_collective_intelligence",
+        "count": 45
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 42
+      }
+    ],
+    "avg_groundedness": 0.246,
+    "avg_abstraction": 0.216
+  },
+  {
+    "week": "2026-W08",
+    "era": "late",
+    "message_count": 274,
+    "active_authors": 16,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 70
+      },
+      {
+        "concept_id": "concept_coordination",
+        "count": 45
+      },
+      {
+        "concept_id": "concept_node",
+        "count": 43
+      },
+      {
+        "concept_id": "concept_data",
+        "count": 35
+      },
+      {
+        "concept_id": "concept_narrative",
+        "count": 35
+      }
+    ],
+    "avg_groundedness": 0.19,
+    "avg_abstraction": 0.157
+  },
+  {
+    "week": "2026-W09",
+    "era": "late",
+    "message_count": 100,
+    "active_authors": 13,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 24
+      },
+      {
+        "concept_id": "concept_ontology",
+        "count": 23
+      },
+      {
+        "concept_id": "concept_territory",
+        "count": 13
+      },
+      {
+        "concept_id": "concept_node",
+        "count": 11
+      },
+      {
+        "concept_id": "concept_narrative",
+        "count": 8
+      }
+    ],
+    "avg_groundedness": 0.153,
+    "avg_abstraction": 0.13
+  },
+  {
+    "week": "2026-W10",
+    "era": "late",
+    "message_count": 233,
+    "active_authors": 15,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 74
+      },
+      {
+        "concept_id": "concept_node",
+        "count": 37
+      },
+      {
+        "concept_id": "concept_protocol",
+        "count": 31
+      },
+      {
+        "concept_id": "concept_narrative",
+        "count": 31
+      },
+      {
+        "concept_id": "concept_knowledge_graph",
+        "count": 29
+      }
+    ],
+    "avg_groundedness": 0.232,
+    "avg_abstraction": 0.21
+  },
+  {
+    "week": "2026-W11",
+    "era": "late",
+    "message_count": 231,
+    "active_authors": 15,
+    "top_concepts": [
+      {
+        "concept_id": "concept_graph",
+        "count": 60
+      },
+      {
+        "concept_id": "concept_node",
+        "count": 47
+      },
+      {
+        "concept_id": "concept_ethereum",
+        "count": 45
+      },
+      {
+        "concept_id": "concept_ai",
+        "count": 43
+      },
+      {
+        "concept_id": "concept_sovereignty",
+        "count": 41
+      }
+    ],
+    "avg_groundedness": 0.322,
+    "avg_abstraction": 0.117
+  }
+]

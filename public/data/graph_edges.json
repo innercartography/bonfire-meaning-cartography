@@ -1,0 +1,3974 @@
+[
+  {
+    "source": "concept_graph",
+    "target": "concept_ai",
+    "type": "concept-concept",
+    "weight": 274
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_knowledge_graph",
+    "type": "concept-concept",
+    "weight": 628
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_community",
+    "type": "concept-concept",
+    "weight": 268
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_infrastructure",
+    "type": "concept-concept",
+    "weight": 293
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_coordination",
+    "type": "concept-concept",
+    "weight": 248
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_node",
+    "type": "concept-concept",
+    "weight": 326
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_data",
+    "type": "concept-concept",
+    "weight": 240
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_collective_intelligence",
+    "type": "concept-concept",
+    "weight": 245
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_network",
+    "type": "concept-concept",
+    "weight": 224
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 218
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 191
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 152
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 183
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 133
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 96
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 113
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 150
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 101
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 108
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 109
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 94
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 68
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 87
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 76
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 77
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 79
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 68
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 63
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 38
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 38
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 48
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 59
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 29
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_ritual",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_resilience",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_canon",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_sacred",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_graph",
+    "target": "concept_stewardship",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_knowledge_graph",
+    "type": "concept-concept",
+    "weight": 206
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_community",
+    "type": "concept-concept",
+    "weight": 191
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_infrastructure",
+    "type": "concept-concept",
+    "weight": 230
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_coordination",
+    "type": "concept-concept",
+    "weight": 211
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_node",
+    "type": "concept-concept",
+    "weight": 135
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_data",
+    "type": "concept-concept",
+    "weight": 146
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_collective_intelligence",
+    "type": "concept-concept",
+    "weight": 156
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_network",
+    "type": "concept-concept",
+    "weight": 144
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 155
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 195
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 93
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 87
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 137
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 80
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 139
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 73
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 97
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 71
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 60
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 75
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 64
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 85
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 74
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 34
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 29
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 59
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 28
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 40
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 25
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 19
+  },
+  {
+    "source": "concept_ai",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_community",
+    "type": "concept-concept",
+    "weight": 221
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_infrastructure",
+    "type": "concept-concept",
+    "weight": 237
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_coordination",
+    "type": "concept-concept",
+    "weight": 186
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_node",
+    "type": "concept-concept",
+    "weight": 210
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_data",
+    "type": "concept-concept",
+    "weight": 161
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_collective_intelligence",
+    "type": "concept-concept",
+    "weight": 166
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_network",
+    "type": "concept-concept",
+    "weight": 174
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 174
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 114
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 80
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 107
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 109
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 63
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 96
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 82
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 71
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 87
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 51
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 81
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 48
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 61
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 45
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 40
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 44
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 43
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 43
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 36
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 28
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 27
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_knowledge_graph",
+    "target": "concept_ritual",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_infrastructure",
+    "type": "concept-concept",
+    "weight": 182
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_coordination",
+    "type": "concept-concept",
+    "weight": 167
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_node",
+    "type": "concept-concept",
+    "weight": 99
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_data",
+    "type": "concept-concept",
+    "weight": 94
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_collective_intelligence",
+    "type": "concept-concept",
+    "weight": 180
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_network",
+    "type": "concept-concept",
+    "weight": 124
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 148
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 99
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 78
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 85
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 103
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 67
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 110
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 54
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 115
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 64
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 37
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 64
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 75
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 78
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 44
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 26
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 25
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 25
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 37
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 40
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 20
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 17
+  },
+  {
+    "source": "concept_community",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_coordination",
+    "type": "concept-concept",
+    "weight": 213
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_node",
+    "type": "concept-concept",
+    "weight": 157
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_data",
+    "type": "concept-concept",
+    "weight": 128
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_collective_intelligence",
+    "type": "concept-concept",
+    "weight": 169
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_network",
+    "type": "concept-concept",
+    "weight": 164
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 164
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 134
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 121
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 110
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 146
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 84
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 109
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 67
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 103
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 80
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 88
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 78
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 74
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 99
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 81
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 52
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 35
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 48
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 38
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 48
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 38
+  },
+  {
+    "source": "concept_infrastructure",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_node",
+    "type": "concept-concept",
+    "weight": 143
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_data",
+    "type": "concept-concept",
+    "weight": 125
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_collective_intelligence",
+    "type": "concept-concept",
+    "weight": 150
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_network",
+    "type": "concept-concept",
+    "weight": 148
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 144
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 142
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 110
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 91
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 101
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 66
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 88
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 58
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 91
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 54
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 77
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 62
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 74
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 84
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 80
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 38
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 32
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 37
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 34
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 24
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 25
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_coordination",
+    "target": "concept_resilience",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_data",
+    "type": "concept-concept",
+    "weight": 132
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_collective_intelligence",
+    "type": "concept-concept",
+    "weight": 124
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_network",
+    "type": "concept-concept",
+    "weight": 123
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 89
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 115
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 95
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 126
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 87
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 61
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 59
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 83
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 58
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 61
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 67
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 55
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 61
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 52
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 54
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 41
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 38
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 24
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 20
+  },
+  {
+    "source": "concept_node",
+    "target": "concept_canon",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_collective_intelligence",
+    "type": "concept-concept",
+    "weight": 120
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_network",
+    "type": "concept-concept",
+    "weight": 127
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 107
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 104
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 88
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 84
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 52
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 72
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 76
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 60
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 45
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 42
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 73
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 43
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 26
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 42
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 58
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 36
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 40
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 32
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 25
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_data",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 20
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_network",
+    "type": "concept-concept",
+    "weight": 127
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 124
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 105
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 90
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 113
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 82
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 41
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 71
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 77
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 76
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 92
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 66
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 68
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 57
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 60
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 36
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 61
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 36
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 40
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 32
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 20
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 37
+  },
+  {
+    "source": "concept_collective_intelligence",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_framework",
+    "type": "concept-concept",
+    "weight": 110
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 82
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 81
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 67
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 80
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 73
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 83
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 53
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 68
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 51
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 60
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 71
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 43
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 78
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 59
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 20
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 27
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 28
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 21
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 21
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_network",
+    "target": "concept_resilience",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_agent",
+    "type": "concept-concept",
+    "weight": 89
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 83
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 72
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 66
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 56
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 83
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 79
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 91
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 48
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 67
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 58
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 52
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 38
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 34
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 34
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 41
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 24
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 19
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_framework",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_protocol",
+    "type": "concept-concept",
+    "weight": 87
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 62
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 70
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 45
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 74
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 75
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 60
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 28
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 73
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 45
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 42
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 47
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 56
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 25
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 24
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 54
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 14
+  },
+  {
+    "source": "concept_agent",
+    "target": "concept_canon",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_narrative",
+    "type": "concept-concept",
+    "weight": 81
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 62
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 72
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 59
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 42
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 61
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 33
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 70
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 43
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 42
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 41
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 56
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 35
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 45
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 26
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 34
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 32
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 14
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 14
+  },
+  {
+    "source": "concept_protocol",
+    "target": "concept_ritual",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_token",
+    "type": "concept-concept",
+    "weight": 36
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 46
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 49
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 46
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 61
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 64
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 36
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 35
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 34
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 59
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 74
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 33
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 50
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 59
+  },
+  {
+    "source": "concept_narrative",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_ethereum",
+    "type": "concept-concept",
+    "weight": 42
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 68
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 27
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 63
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 41
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 35
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 53
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 44
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 25
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 17
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 20
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_token",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_blockchain",
+    "type": "concept-concept",
+    "weight": 65
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 44
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 42
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 19
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 40
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 41
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 21
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 24
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_ethereum",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 14
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_memory",
+    "type": "concept-concept",
+    "weight": 25
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 70
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 26
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 17
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 33
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 44
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 54
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 14
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 34
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_blockchain",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_governance",
+    "type": "concept-concept",
+    "weight": 26
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 44
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 17
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 17
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 19
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_memory",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_consciousness",
+    "type": "concept-concept",
+    "weight": 20
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 62
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 76
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 29
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 17
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 28
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_governance",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_sovereignty",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 39
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 21
+  },
+  {
+    "source": "concept_consciousness",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 19
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_emergence",
+    "type": "concept-concept",
+    "weight": 17
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 33
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 47
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 14
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_sovereignty",
+    "target": "concept_ritual",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_dao",
+    "type": "concept-concept",
+    "weight": 23
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 18
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_emergence",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_dao",
+    "target": "concept_decentralization",
+    "type": "concept-concept",
+    "weight": 45
+  },
+  {
+    "source": "concept_dao",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_dao",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 26
+  },
+  {
+    "source": "concept_dao",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_dao",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_dao",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_dao",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_dao",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_dao",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_decentralization",
+    "target": "concept_trust",
+    "type": "concept-concept",
+    "weight": 34
+  },
+  {
+    "source": "concept_decentralization",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 19
+  },
+  {
+    "source": "concept_decentralization",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_decentralization",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 27
+  },
+  {
+    "source": "concept_decentralization",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_decentralization",
+    "target": "concept_web3",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "concept_decentralization",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_trust",
+    "target": "concept_territory",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_trust",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_trust",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_trust",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 31
+  },
+  {
+    "source": "concept_trust",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_trust",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_territory",
+    "target": "concept_ontology",
+    "type": "concept-concept",
+    "weight": 21
+  },
+  {
+    "source": "concept_territory",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 15
+  },
+  {
+    "source": "concept_territory",
+    "target": "concept_culture",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_territory",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 21
+  },
+  {
+    "source": "concept_territory",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 34
+  },
+  {
+    "source": "concept_territory",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 12
+  },
+  {
+    "source": "concept_ontology",
+    "target": "concept_archetype",
+    "type": "concept-concept",
+    "weight": 22
+  },
+  {
+    "source": "concept_ontology",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_ontology",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_ontology",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 11
+  },
+  {
+    "source": "concept_ontology",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_archetype",
+    "target": "concept_identity",
+    "type": "concept-concept",
+    "weight": 13
+  },
+  {
+    "source": "concept_archetype",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 30
+  },
+  {
+    "source": "concept_archetype",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 28
+  },
+  {
+    "source": "concept_archetype",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 20
+  },
+  {
+    "source": "concept_culture",
+    "target": "concept_storyliving",
+    "type": "concept-concept",
+    "weight": 10
+  },
+  {
+    "source": "concept_storyliving",
+    "target": "concept_screenplay",
+    "type": "concept-concept",
+    "weight": 44
+  },
+  {
+    "source": "concept_storyliving",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 19
+  },
+  {
+    "source": "concept_screenplay",
+    "target": "concept_myth",
+    "type": "concept-concept",
+    "weight": 16
+  },
+  {
+    "source": "actor_socrat0x",
+    "target": "concept_ai",
+    "type": "actor-concept",
+    "weight": 15
+  },
+  {
+    "source": "actor_socrat0x",
+    "target": "concept_infrastructure",
+    "type": "actor-concept",
+    "weight": 5
+  },
+  {
+    "source": "actor_socrat0x",
+    "target": "concept_community",
+    "type": "actor-concept",
+    "weight": 29
+  },
+  {
+    "source": "actor_egg",
+    "target": "concept_ai",
+    "type": "actor-concept",
+    "weight": 5
+  },
+  {
+    "source": "actor_egg",
+    "target": "concept_network",
+    "type": "actor-concept",
+    "weight": 5
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "concept_graph",
+    "type": "actor-concept",
+    "weight": 5
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "concept_community",
+    "type": "actor-concept",
+    "weight": 5
+  },
+  {
+    "source": "actor_syntony_robbins",
+    "target": "concept_narrative",
+    "type": "actor-concept",
+    "weight": 20
+  },
+  {
+    "source": "actor_syntony_robbins",
+    "target": "concept_graph",
+    "type": "actor-concept",
+    "weight": 28
+  },
+  {
+    "source": "actor_syntony_robbins",
+    "target": "concept_archetype",
+    "type": "actor-concept",
+    "weight": 29
+  },
+  {
+    "source": "actor_syntony_robbins",
+    "target": "concept_node",
+    "type": "actor-concept",
+    "weight": 11
+  },
+  {
+    "source": "actor_syntony_robbins",
+    "target": "concept_infrastructure",
+    "type": "actor-concept",
+    "weight": 18
+  },
+  {
+    "source": "actor_privacymage",
+    "target": "concept_protocol",
+    "type": "actor-concept",
+    "weight": 6
+  },
+  {
+    "source": "actor_ian_tairea",
+    "target": "concept_community",
+    "type": "actor-concept",
+    "weight": 5
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_safeguard",
+    "type": "actor-actor",
+    "weight": 6
+  },
+  {
+    "source": "actor_francesca",
+    "target": "actor_joshua___bonfires_ai",
+    "type": "actor-actor",
+    "weight": 10
+  },
+  {
+    "source": "actor_francesca",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_fkayy_kaloex",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_fkayy_kaloex",
+    "target": "actor_joshua___bonfires_ai",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_heis_sparkles",
+    "target": "actor_tessa_",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_tessa_",
+    "type": "actor-actor",
+    "weight": 16
+  },
+  {
+    "source": "actor_sizzle_akaza_",
+    "target": "actor_tessa_",
+    "type": "actor-actor",
+    "weight": 11
+  },
+  {
+    "source": "actor_cr3myy",
+    "target": "actor_sizzle_akaza_",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_sizzle_akaza_",
+    "type": "actor-actor",
+    "weight": 20
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_juan_keymer",
+    "type": "actor-actor",
+    "weight": 68
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_tessa_",
+    "type": "actor-actor",
+    "weight": 16
+  },
+  {
+    "source": "actor_cr3myy",
+    "target": "actor_joshua___bonfires_ai",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_cr3myy",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 6
+  },
+  {
+    "source": "actor_cr3myy",
+    "target": "actor_tessa_",
+    "type": "actor-actor",
+    "weight": 6
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 17
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 12
+  },
+  {
+    "source": "actor_iqra",
+    "target": "actor_vishnu_vennelakanti",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_iqra",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_vishnu_vennelakanti",
+    "type": "actor-actor",
+    "weight": 5
+  },
+  {
+    "source": "actor_iqra",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 5
+  },
+  {
+    "source": "actor_iqra",
+    "target": "actor_sizzle_akaza_",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_juan_keymer",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 17
+  },
+  {
+    "source": "actor_iqra",
+    "target": "actor_juan_keymer",
+    "type": "actor-actor",
+    "weight": 5
+  },
+  {
+    "source": "actor_inga",
+    "target": "actor_joshua___bonfires_ai",
+    "type": "actor-actor",
+    "weight": 8
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_rodo_____",
+    "type": "actor-actor",
+    "weight": 7
+  },
+  {
+    "source": "actor_fkayy_kaloex",
+    "target": "actor_tessa_",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 19
+  },
+  {
+    "source": "actor_fkayy_kaloex",
+    "target": "actor_kavod",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_kavod",
+    "target": "actor_safeguard",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_aadil",
+    "target": "actor_joshua___bonfires_ai",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_aadil",
+    "target": "actor_heis_sparkles",
+    "type": "actor-actor",
+    "weight": 6
+  },
+  {
+    "source": "actor_kavod",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 5
+  },
+  {
+    "source": "actor_aadil",
+    "target": "actor_tessa_",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_fkayy_kaloex",
+    "target": "actor_iqra",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_juan_keymer",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 7
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_rose",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_naomiii",
+    "type": "actor-actor",
+    "weight": 11
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_naomiii",
+    "type": "actor-actor",
+    "weight": 6
+  },
+  {
+    "source": "actor_naomiii",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_pixie",
+    "type": "actor-actor",
+    "weight": 14
+  },
+  {
+    "source": "actor_pixie",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 12
+  },
+  {
+    "source": "actor_inga",
+    "target": "actor_mila_from_the_metaverse",
+    "type": "actor-actor",
+    "weight": 8
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_mila_from_the_metaverse",
+    "type": "actor-actor",
+    "weight": 45
+  },
+  {
+    "source": "actor_iqra",
+    "target": "actor_mila_from_the_metaverse",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_mila_from_the_metaverse",
+    "type": "actor-actor",
+    "weight": 34
+  },
+  {
+    "source": "actor_mila_from_the_metaverse",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 31
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 527
+  },
+  {
+    "source": "actor_mila_from_the_metaverse",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 84
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 136
+  },
+  {
+    "source": "actor_pixie",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 66
+  },
+  {
+    "source": "actor_mila_from_the_metaverse",
+    "target": "actor_pixie",
+    "type": "actor-actor",
+    "weight": 17
+  },
+  {
+    "source": "actor_juan_keymer",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 38
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 239
+  },
+  {
+    "source": "actor_iqra",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 20
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_pixie",
+    "type": "actor-actor",
+    "weight": 5
+  },
+  {
+    "source": "actor_daniel",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor___zeev__",
+    "target": "actor_joshua___bonfires_ai",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor___zeev__",
+    "target": "actor_juan_keymer",
+    "type": "actor-actor",
+    "weight": 7
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 227
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 30
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_joshua___bonfires_ai",
+    "type": "actor-actor",
+    "weight": 21
+  },
+  {
+    "source": "actor_inga",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 8
+  },
+  {
+    "source": "actor_anshuman",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 16
+  },
+  {
+    "source": "actor_anshuman",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_daniel",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 6
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_pablo_cabruca",
+    "type": "actor-actor",
+    "weight": 20
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_pablo_cabruca",
+    "type": "actor-actor",
+    "weight": 7
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_pablo_cabruca",
+    "type": "actor-actor",
+    "weight": 9
+  },
+  {
+    "source": "actor_anshuman",
+    "target": "actor_mila_from_the_metaverse",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_anshuman",
+    "target": "actor_pablo_cabruca",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_mila_from_the_metaverse",
+    "target": "actor_pablo_cabruca",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_pablo_cabruca",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 9
+  },
+  {
+    "source": "actor_pablo_cabruca",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 50
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 607
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_joshua___bonfires_ai",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_kropp",
+    "type": "actor-actor",
+    "weight": 6
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 41
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_pablo_cabruca",
+    "type": "actor-actor",
+    "weight": 24
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_steve_phillips___cypherpunk_utopia_residency",
+    "type": "actor-actor",
+    "weight": 6
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_steve_phillips___cypherpunk_utopia_residency",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_steve_phillips___cypherpunk_utopia_residency",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_mila_from_the_metaverse",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_steve_phillips___cypherpunk_utopia_residency",
+    "type": "actor-actor",
+    "weight": 5
+  },
+  {
+    "source": "actor_daniel",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 70
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_egg",
+    "type": "actor-actor",
+    "weight": 8
+  },
+  {
+    "source": "actor_socrat0x",
+    "target": "actor_steve_phillips___cypherpunk_utopia_residency",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_francesca",
+    "type": "actor-actor",
+    "weight": 10
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_syntony_robbins",
+    "type": "actor-actor",
+    "weight": 96
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_syntony_robbins",
+    "type": "actor-actor",
+    "weight": 14
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_pixie",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_syntony_robbins",
+    "type": "actor-actor",
+    "weight": 81
+  },
+  {
+    "source": "actor_rodo_____",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 13
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_mo_web",
+    "type": "actor-actor",
+    "weight": 5
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_privacymage",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_privacymage",
+    "type": "actor-actor",
+    "weight": 7
+  },
+  {
+    "source": "actor_privacymage",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 43
+  },
+  {
+    "source": "actor_mo_web",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_mo_web",
+    "target": "actor_syntony_robbins",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_syntony_robbins",
+    "type": "actor-actor",
+    "weight": 11
+  },
+  {
+    "source": "actor_lowry",
+    "target": "actor_pixie",
+    "type": "actor-actor",
+    "weight": 8
+  },
+  {
+    "source": "actor_juan_keymer",
+    "target": "actor_syntony_robbins",
+    "type": "actor-actor",
+    "weight": 5
+  },
+  {
+    "source": "actor_socrat0x",
+    "target": "actor_spencer_graham",
+    "type": "actor-actor",
+    "weight": 21
+  },
+  {
+    "source": "actor_ian_tairea",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 37
+  },
+  {
+    "source": "actor_ian_tairea",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_pixie",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_spencer_graham",
+    "type": "actor-actor",
+    "weight": 6
+  },
+  {
+    "source": "actor_pixie",
+    "target": "actor_spencer_graham",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_ian_tairea",
+    "type": "actor-actor",
+    "weight": 8
+  },
+  {
+    "source": "actor_ian_tairea",
+    "target": "actor_joshua___bonfires_ai",
+    "type": "actor-actor",
+    "weight": 4
+  },
+  {
+    "source": "actor_ian_tairea",
+    "target": "actor_syntony_robbins",
+    "type": "actor-actor",
+    "weight": 3
+  },
+  {
+    "source": "actor_michael_____",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 31
+  },
+  {
+    "source": "actor_phillip_mccombs",
+    "target": "actor_socrat0x",
+    "type": "actor-actor",
+    "weight": 34
+  },
+  {
+    "source": "actor_phillip_mccombs",
+    "target": "actor_syntony_robbins",
+    "type": "actor-actor",
+    "weight": 21
+  },
+  {
+    "source": "actor_socrat0x",
+    "target": "actor_vitali",
+    "type": "actor-actor",
+    "weight": 31
+  },
+  {
+    "source": "actor_ian_tairea",
+    "target": "actor_phillip_mccombs",
+    "type": "actor-actor",
+    "weight": 3
+  }
+]

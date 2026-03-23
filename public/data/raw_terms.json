@@ -1,0 +1,6002 @@
+[
+  {
+    "term": "bonfire",
+    "count": 1188,
+    "author_count": 51,
+    "sample_messages": [
+      "msg_000019",
+      "msg_000379",
+      "msg_000532",
+      "msg_000608",
+      "msg_000733"
+    ]
+  },
+  {
+    "term": "knowledge",
+    "count": 1014,
+    "author_count": 29,
+    "sample_messages": [
+      "msg_000334",
+      "msg_000657",
+      "msg_000680",
+      "msg_000740",
+      "msg_001133"
+    ]
+  },
+  {
+    "term": "bot",
+    "count": 878,
+    "author_count": 39,
+    "sample_messages": [
+      "msg_000272",
+      "msg_000554",
+      "msg_001417",
+      "msg_001849",
+      "msg_001857"
+    ]
+  },
+  {
+    "term": "graph",
+    "count": 817,
+    "author_count": 23,
+    "sample_messages": [
+      "msg_001442",
+      "msg_001746",
+      "msg_001828",
+      "msg_001839",
+      "msg_002022"
+    ]
+  },
+  {
+    "term": "sanctuary",
+    "count": 744,
+    "author_count": 37,
+    "sample_messages": [
+      "msg_001849",
+      "msg_001857",
+      "msg_001858",
+      "msg_001886",
+      "msg_001887"
+    ]
+  },
+  {
+    "term": "sanctuary bonfire",
+    "count": 717,
+    "author_count": 36,
+    "sample_messages": [
+      "msg_001849",
+      "msg_001857",
+      "msg_001886",
+      "msg_001887",
+      "msg_001889"
+    ]
+  },
+  {
+    "term": "bonfire bot",
+    "count": 710,
+    "author_count": 36,
+    "sample_messages": [
+      "msg_001849",
+      "msg_001857",
+      "msg_001886",
+      "msg_001894",
+      "msg_001922"
+    ]
+  },
+  {
+    "term": "intelligence",
+    "count": 635,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000308",
+      "msg_001858",
+      "msg_001862",
+      "msg_001989",
+      "msg_002010"
+    ]
+  },
+  {
+    "term": "bonfires",
+    "count": 567,
+    "author_count": 41,
+    "sample_messages": [
+      "msg_000001",
+      "msg_000003",
+      "msg_000005",
+      "msg_000009",
+      "msg_000010"
+    ]
+  },
+  {
+    "term": "system",
+    "count": 562,
+    "author_count": 20,
+    "sample_messages": [
+      "msg_000644",
+      "msg_000653",
+      "msg_001100",
+      "msg_001125",
+      "msg_001296"
+    ]
+  },
+  {
+    "term": "infrastructure",
+    "count": 516,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000019",
+      "msg_001746",
+      "msg_001942",
+      "msg_001993",
+      "msg_002030"
+    ]
+  },
+  {
+    "term": "collaborative",
+    "count": 504,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001938",
+      "msg_001940",
+      "msg_001970",
+      "msg_002012",
+      "msg_002039"
+    ]
+  },
+  {
+    "term": "community",
+    "count": 501,
+    "author_count": 26,
+    "sample_messages": [
+      "msg_000167",
+      "msg_000169",
+      "msg_000647",
+      "msg_000658",
+      "msg_000740"
+    ]
+  },
+  {
+    "term": "rather",
+    "count": 488,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000540",
+      "msg_001598",
+      "msg_001775",
+      "msg_001942",
+      "msg_002022"
+    ]
+  },
+  {
+    "term": "now",
+    "count": 481,
+    "author_count": 32,
+    "sample_messages": [
+      "msg_000122",
+      "msg_000148",
+      "msg_000170",
+      "msg_000320",
+      "msg_000335"
+    ]
+  },
+  {
+    "term": "knowledge graph",
+    "count": 477,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_001746",
+      "msg_001828",
+      "msg_002022",
+      "msg_002516",
+      "msg_002700"
+    ]
+  },
+  {
+    "term": "systems",
+    "count": 462,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000644",
+      "msg_000645",
+      "msg_000653",
+      "msg_001862",
+      "msg_001865"
+    ]
+  },
+  {
+    "term": "architecture",
+    "count": 449,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_001830",
+      "msg_001862",
+      "msg_001923",
+      "msg_002736",
+      "msg_002738"
+    ]
+  },
+  {
+    "term": "collective",
+    "count": 441,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_001577",
+      "msg_001858",
+      "msg_001862",
+      "msg_001921",
+      "msg_001923"
+    ]
+  },
+  {
+    "term": "data",
+    "count": 431,
+    "author_count": 22,
+    "sample_messages": [
+      "msg_000380",
+      "msg_001411",
+      "msg_001694",
+      "msg_001725",
+      "msg_001730"
+    ]
+  },
+  {
+    "term": "specific",
+    "count": 415,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000654",
+      "msg_000658",
+      "msg_001405",
+      "msg_001746",
+      "msg_001936"
+    ]
+  },
+  {
+    "term": "building",
+    "count": 410,
+    "author_count": 22,
+    "sample_messages": [
+      "msg_000187",
+      "msg_000190",
+      "msg_000299",
+      "msg_000307",
+      "msg_000591"
+    ]
+  },
+  {
+    "term": "coordination",
+    "count": 407,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000187",
+      "msg_000190",
+      "msg_000206",
+      "msg_000228",
+      "msg_000262"
+    ]
+  },
+  {
+    "term": "semantic",
+    "count": 383,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_001746",
+      "msg_001923",
+      "msg_002162",
+      "msg_002164",
+      "msg_002166"
+    ]
+  },
+  {
+    "term": "dark",
+    "count": 382,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000071",
+      "msg_000074",
+      "msg_000083",
+      "msg_000086",
+      "msg_000088"
+    ]
+  },
+  {
+    "term": "collaborative intelligence",
+    "count": 380,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002012",
+      "msg_002736",
+      "msg_002738",
+      "msg_002740",
+      "msg_002749"
+    ]
+  },
+  {
+    "term": "forest",
+    "count": 371,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000071",
+      "msg_000074",
+      "msg_000083",
+      "msg_000086",
+      "msg_000088"
+    ]
+  },
+  {
+    "term": "technical",
+    "count": 370,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000638",
+      "msg_001688",
+      "msg_001923",
+      "msg_001936",
+      "msg_002014"
+    ]
+  },
+  {
+    "term": "becomes",
+    "count": 366,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000653",
+      "msg_001775",
+      "msg_002011",
+      "msg_002012",
+      "msg_002022"
+    ]
+  },
+  {
+    "term": "dark forest",
+    "count": 359,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000071",
+      "msg_000074",
+      "msg_000083",
+      "msg_000086",
+      "msg_000088"
+    ]
+  },
+  {
+    "term": "network",
+    "count": 350,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000098",
+      "msg_000262",
+      "msg_000268",
+      "msg_000614",
+      "msg_000734"
+    ]
+  },
+  {
+    "term": "human",
+    "count": 337,
+    "author_count": 29,
+    "sample_messages": [
+      "msg_000447",
+      "msg_000452",
+      "msg_000453",
+      "msg_000454",
+      "msg_000455"
+    ]
+  },
+  {
+    "term": "itself",
+    "count": 329,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000653",
+      "msg_001409",
+      "msg_002081",
+      "msg_002348",
+      "msg_002504"
+    ]
+  },
+  {
+    "term": "across",
+    "count": 327,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_001889",
+      "msg_001942",
+      "msg_001970",
+      "msg_001993",
+      "msg_002014"
+    ]
+  },
+  {
+    "term": "summary",
+    "count": 326,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000112",
+      "msg_000184",
+      "msg_002082",
+      "msg_002598",
+      "msg_002862"
+    ]
+  },
+  {
+    "term": "without",
+    "count": 325,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000603",
+      "msg_001488",
+      "msg_001993",
+      "msg_002160",
+      "msg_002298"
+    ]
+  },
+  {
+    "term": "patterns",
+    "count": 320,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000288",
+      "msg_001993",
+      "msg_002010",
+      "msg_002014",
+      "msg_002022"
+    ]
+  },
+  {
+    "term": "plat0x",
+    "count": 304,
+    "author_count": 25,
+    "sample_messages": [
+      "msg_000066",
+      "msg_000067",
+      "msg_001288",
+      "msg_001323",
+      "msg_001422"
+    ]
+  },
+  {
+    "term": "eth",
+    "count": 304,
+    "author_count": 28,
+    "sample_messages": [
+      "msg_000066",
+      "msg_000067",
+      "msg_000188",
+      "msg_000291",
+      "msg_000533"
+    ]
+  },
+  {
+    "term": "context",
+    "count": 303,
+    "author_count": 18,
+    "sample_messages": [
+      "msg_000740",
+      "msg_000845",
+      "msg_001288",
+      "msg_001415",
+      "msg_001633"
+    ]
+  },
+  {
+    "term": "reality",
+    "count": 299,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_002010",
+      "msg_002028",
+      "msg_002085",
+      "msg_002251",
+      "msg_002630"
+    ]
+  },
+  {
+    "term": "create",
+    "count": 292,
+    "author_count": 18,
+    "sample_messages": [
+      "msg_000608",
+      "msg_000649",
+      "msg_000805",
+      "msg_001293",
+      "msg_001925"
+    ]
+  },
+  {
+    "term": "spark",
+    "count": 292,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000638",
+      "msg_001521",
+      "msg_001522",
+      "msg_001533",
+      "msg_001556"
+    ]
+  },
+  {
+    "term": "framework",
+    "count": 287,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000380",
+      "msg_001746",
+      "msg_001923",
+      "msg_001938",
+      "msg_001942"
+    ]
+  },
+  {
+    "term": "layer",
+    "count": 286,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000187",
+      "msg_001133",
+      "msg_001409",
+      "msg_001746",
+      "msg_002164"
+    ]
+  },
+  {
+    "term": "graphs",
+    "count": 285,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_001923",
+      "msg_002160",
+      "msg_002369",
+      "msg_002389",
+      "msg_002395"
+    ]
+  },
+  {
+    "term": "kengrams",
+    "count": 284,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002896",
+      "msg_002897",
+      "msg_002901",
+      "msg_002902",
+      "msg_002959"
+    ]
+  },
+  {
+    "term": "kengram",
+    "count": 280,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002897",
+      "msg_002900",
+      "msg_002902",
+      "msg_002903",
+      "msg_002904"
+    ]
+  },
+  {
+    "term": "based",
+    "count": 271,
+    "author_count": 19,
+    "sample_messages": [
+      "msg_000347",
+      "msg_001241",
+      "msg_001268",
+      "msg_001407",
+      "msg_001576"
+    ]
+  },
+  {
+    "term": "value",
+    "count": 271,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000745",
+      "msg_001746",
+      "msg_002034",
+      "msg_002037",
+      "msg_002048"
+    ]
+  },
+  {
+    "term": "key",
+    "count": 268,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000653",
+      "msg_001135",
+      "msg_001521",
+      "msg_002160",
+      "msg_002175"
+    ]
+  },
+  {
+    "term": "creating",
+    "count": 266,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000656",
+      "msg_001133",
+      "msg_001936",
+      "msg_001942",
+      "msg_001993"
+    ]
+  },
+  {
+    "term": "information",
+    "count": 266,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_001862",
+      "msg_001970",
+      "msg_002130",
+      "msg_002142",
+      "msg_002160"
+    ]
+  },
+  {
+    "term": "shared",
+    "count": 265,
+    "author_count": 20,
+    "sample_messages": [
+      "msg_000116",
+      "msg_000615",
+      "msg_001163",
+      "msg_001227",
+      "msg_001361"
+    ]
+  },
+  {
+    "term": "narrative",
+    "count": 265,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_001113",
+      "msg_002630",
+      "msg_002639",
+      "msg_002643",
+      "msg_002671"
+    ]
+  },
+  {
+    "term": "lights",
+    "count": 260,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_001522",
+      "msg_001533",
+      "msg_001556",
+      "msg_001560",
+      "msg_001567"
+    ]
+  },
+  {
+    "term": "spark lights",
+    "count": 257,
+    "author_count": 3,
+    "sample_messages": [
+      "msg_001522",
+      "msg_001533",
+      "msg_001556",
+      "msg_001560",
+      "msg_001567"
+    ]
+  },
+  {
+    "term": "lights dark",
+    "count": 257,
+    "author_count": 3,
+    "sample_messages": [
+      "msg_001522",
+      "msg_001533",
+      "msg_001556",
+      "msg_001560",
+      "msg_001567"
+    ]
+  },
+  {
+    "term": "protocol",
+    "count": 256,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000380",
+      "msg_002416",
+      "msg_002444",
+      "msg_002445",
+      "msg_002448"
+    ]
+  },
+  {
+    "term": "makes",
+    "count": 246,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000219",
+      "msg_000647",
+      "msg_000653",
+      "msg_000655",
+      "msg_001290"
+    ]
+  },
+  {
+    "term": "nodes",
+    "count": 244,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_001834",
+      "msg_001839",
+      "msg_002043",
+      "msg_002076",
+      "msg_002516"
+    ]
+  },
+  {
+    "term": "world",
+    "count": 241,
+    "author_count": 21,
+    "sample_messages": [
+      "msg_000188",
+      "msg_000470",
+      "msg_000582",
+      "msg_000644",
+      "msg_000736"
+    ]
+  },
+  {
+    "term": "using",
+    "count": 237,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000380",
+      "msg_001100",
+      "msg_001923",
+      "msg_001936",
+      "msg_002145"
+    ]
+  },
+  {
+    "term": "agents",
+    "count": 236,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000189",
+      "msg_000838",
+      "msg_001691",
+      "msg_001694",
+      "msg_001840"
+    ]
+  },
+  {
+    "term": "node",
+    "count": 234,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_002401",
+      "msg_002422",
+      "msg_002842",
+      "msg_002863",
+      "msg_002883"
+    ]
+  },
+  {
+    "term": "current",
+    "count": 232,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_001938",
+      "msg_002142",
+      "msg_002203",
+      "msg_002205",
+      "msg_002448"
+    ]
+  },
+  {
+    "term": "understanding",
+    "count": 229,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_001862",
+      "msg_002022",
+      "msg_002162",
+      "msg_002164",
+      "msg_002203"
+    ]
+  },
+  {
+    "term": "thinking",
+    "count": 228,
+    "author_count": 19,
+    "sample_messages": [
+      "msg_000184",
+      "msg_000656",
+      "msg_001540",
+      "msg_001633",
+      "msg_001867"
+    ]
+  },
+  {
+    "term": "plat0x eth",
+    "count": 226,
+    "author_count": 25,
+    "sample_messages": [
+      "msg_000066",
+      "msg_000067",
+      "msg_001288",
+      "msg_001323",
+      "msg_001422"
+    ]
+  },
+  {
+    "term": "any",
+    "count": 224,
+    "author_count": 29,
+    "sample_messages": [
+      "msg_000098",
+      "msg_000609",
+      "msg_000656",
+      "msg_000679",
+      "msg_000713"
+    ]
+  },
+  {
+    "term": "governance",
+    "count": 224,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000187",
+      "msg_000734",
+      "msg_000745",
+      "msg_000749",
+      "msg_001415"
+    ]
+  },
+  {
+    "term": "creates",
+    "count": 221,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001872",
+      "msg_002039",
+      "msg_002064",
+      "msg_002164",
+      "msg_002205"
+    ]
+  },
+  {
+    "term": "model",
+    "count": 220,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_001405",
+      "msg_001409",
+      "msg_001415",
+      "msg_002138",
+      "msg_002158"
+    ]
+  },
+  {
+    "term": "space",
+    "count": 218,
+    "author_count": 28,
+    "sample_messages": [
+      "msg_000101",
+      "msg_000102",
+      "msg_000103",
+      "msg_000104",
+      "msg_000107"
+    ]
+  },
+  {
+    "term": "memory",
+    "count": 217,
+    "author_count": 22,
+    "sample_messages": [
+      "msg_000098",
+      "msg_000231",
+      "msg_000232",
+      "msg_000233",
+      "msg_000234"
+    ]
+  },
+  {
+    "term": "agent",
+    "count": 217,
+    "author_count": 25,
+    "sample_messages": [
+      "msg_000195",
+      "msg_000379",
+      "msg_000380",
+      "msg_000842",
+      "msg_001059"
+    ]
+  },
+  {
+    "term": "become",
+    "count": 214,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000653",
+      "msg_000657",
+      "msg_002012",
+      "msg_002032",
+      "msg_002048"
+    ]
+  },
+  {
+    "term": "build",
+    "count": 213,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000187",
+      "msg_000307",
+      "msg_001521",
+      "msg_001540",
+      "msg_001686"
+    ]
+  },
+  {
+    "term": "whether",
+    "count": 213,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000581",
+      "msg_001872",
+      "msg_001889",
+      "msg_002037",
+      "msg_002607"
+    ]
+  },
+  {
+    "term": "knowledge graphs",
+    "count": 213,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001923",
+      "msg_002160",
+      "msg_002524",
+      "msg_002525",
+      "msg_002527"
+    ]
+  },
+  {
+    "term": "living",
+    "count": 211,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000752",
+      "msg_002162",
+      "msg_002175",
+      "msg_002203",
+      "msg_002205"
+    ]
+  },
+  {
+    "term": "over",
+    "count": 205,
+    "author_count": 22,
+    "sample_messages": [
+      "msg_000082",
+      "msg_000124",
+      "msg_000251",
+      "msg_000400",
+      "msg_000490"
+    ]
+  },
+  {
+    "term": "pattern",
+    "count": 205,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001989",
+      "msg_002074",
+      "msg_002164",
+      "msg_002738",
+      "msg_002783"
+    ]
+  },
+  {
+    "term": "jb87ua",
+    "count": 204,
+    "author_count": 26,
+    "sample_messages": [
+      "msg_000301",
+      "msg_000302",
+      "msg_000709",
+      "msg_001100",
+      "msg_001104"
+    ]
+  },
+  {
+    "term": "ethereum",
+    "count": 201,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000098",
+      "msg_001135",
+      "msg_001149",
+      "msg_001396",
+      "msg_001682"
+    ]
+  },
+  {
+    "term": "ecosystem",
+    "count": 194,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000036",
+      "msg_000187",
+      "msg_001936",
+      "msg_001938",
+      "msg_001940"
+    ]
+  },
+  {
+    "term": "instead",
+    "count": 194,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_001113",
+      "msg_001769",
+      "msg_001830",
+      "msg_001942",
+      "msg_002125"
+    ]
+  },
+  {
+    "term": "market",
+    "count": 193,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000328",
+      "msg_001214",
+      "msg_001233",
+      "msg_001275",
+      "msg_001490"
+    ]
+  },
+  {
+    "term": "within",
+    "count": 192,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000187",
+      "msg_001553",
+      "msg_002044",
+      "msg_002844",
+      "msg_002923"
+    ]
+  },
+  {
+    "term": "insights",
+    "count": 190,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000116",
+      "msg_000251",
+      "msg_000736",
+      "msg_002022",
+      "msg_002037"
+    ]
+  },
+  {
+    "term": "token",
+    "count": 190,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_001086",
+      "msg_001113",
+      "msg_001351",
+      "msg_001521",
+      "msg_002041"
+    ]
+  },
+  {
+    "term": "multiple",
+    "count": 189,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000348",
+      "msg_001109",
+      "msg_001694",
+      "msg_002041",
+      "msg_002069"
+    ]
+  },
+  {
+    "term": "core",
+    "count": 189,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002162",
+      "msg_002788",
+      "msg_002863",
+      "msg_002910",
+      "msg_003016"
+    ]
+  },
+  {
+    "term": "approach",
+    "count": 188,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000651",
+      "msg_000659",
+      "msg_001113",
+      "msg_001862",
+      "msg_001867"
+    ]
+  },
+  {
+    "term": "looking",
+    "count": 186,
+    "author_count": 21,
+    "sample_messages": [
+      "msg_000101",
+      "msg_000167",
+      "msg_000217",
+      "msg_000328",
+      "msg_000734"
+    ]
+  },
+  {
+    "term": "moment",
+    "count": 185,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000711",
+      "msg_001609",
+      "msg_001785",
+      "msg_002504",
+      "msg_002607"
+    ]
+  },
+  {
+    "term": "digital",
+    "count": 183,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000020",
+      "msg_001942",
+      "msg_001993",
+      "msg_002005",
+      "msg_002022"
+    ]
+  },
+  {
+    "term": "exploring",
+    "count": 181,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000023",
+      "msg_000335",
+      "msg_001858",
+      "msg_001865",
+      "msg_001867"
+    ]
+  },
+  {
+    "term": "toward",
+    "count": 181,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000838",
+      "msg_001942",
+      "msg_001970",
+      "msg_002037",
+      "msg_002039"
+    ]
+  },
+  {
+    "term": "ideas",
+    "count": 180,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000191",
+      "msg_000638",
+      "msg_000644",
+      "msg_000736",
+      "msg_000745"
+    ]
+  },
+  {
+    "term": "decentralized",
+    "count": 180,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000757",
+      "msg_001858",
+      "msg_001862",
+      "msg_001936",
+      "msg_001993"
+    ]
+  },
+  {
+    "term": "move",
+    "count": 180,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_001715",
+      "msg_001716",
+      "msg_001769",
+      "msg_002097",
+      "msg_002154"
+    ]
+  },
+  {
+    "term": "perfect",
+    "count": 179,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000658",
+      "msg_001746",
+      "msg_001923",
+      "msg_002014",
+      "msg_002043"
+    ]
+  },
+  {
+    "term": "share",
+    "count": 178,
+    "author_count": 20,
+    "sample_messages": [
+      "msg_000075",
+      "msg_000096",
+      "msg_000110",
+      "msg_000196",
+      "msg_000293"
+    ]
+  },
+  {
+    "term": "map",
+    "count": 178,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_001942",
+      "msg_002112",
+      "msg_002657",
+      "msg_002658",
+      "msg_002738"
+    ]
+  },
+  {
+    "term": "connections",
+    "count": 177,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001330",
+      "msg_002064",
+      "msg_002069",
+      "msg_002164",
+      "msg_002175"
+    ]
+  },
+  {
+    "term": "structure",
+    "count": 177,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_001694",
+      "msg_001746",
+      "msg_001862",
+      "msg_002037",
+      "msg_002296"
+    ]
+  },
+  {
+    "term": "live",
+    "count": 176,
+    "author_count": 18,
+    "sample_messages": [
+      "msg_000095",
+      "msg_000097",
+      "msg_000098",
+      "msg_000125",
+      "msg_000274"
+    ]
+  },
+  {
+    "term": "blockchain",
+    "count": 176,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000649",
+      "msg_000745",
+      "msg_001936",
+      "msg_002024",
+      "msg_002032"
+    ]
+  },
+  {
+    "term": "directly",
+    "count": 175,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001867",
+      "msg_001942",
+      "msg_002205",
+      "msg_002481",
+      "msg_002611"
+    ]
+  },
+  {
+    "term": "state",
+    "count": 174,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000574",
+      "msg_000940",
+      "msg_002415",
+      "msg_002416",
+      "msg_002421"
+    ]
+  },
+  {
+    "term": "social",
+    "count": 173,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000184",
+      "msg_000593",
+      "msg_001895",
+      "msg_001909",
+      "msg_001923"
+    ]
+  },
+  {
+    "term": "please",
+    "count": 170,
+    "author_count": 19,
+    "sample_messages": [
+      "msg_000181",
+      "msg_000196",
+      "msg_000274",
+      "msg_000736",
+      "msg_001099"
+    ]
+  },
+  {
+    "term": "together",
+    "count": 170,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000757",
+      "msg_000760",
+      "msg_001746",
+      "msg_001889",
+      "msg_001921"
+    ]
+  },
+  {
+    "term": "bret",
+    "count": 170,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_002768",
+      "msg_002844",
+      "msg_002845",
+      "msg_002847",
+      "msg_002857"
+    ]
+  },
+  {
+    "term": "consciousness",
+    "count": 170,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002783",
+      "msg_002785",
+      "msg_002828",
+      "msg_002844",
+      "msg_002872"
+    ]
+  },
+  {
+    "term": "conversation",
+    "count": 169,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000638",
+      "msg_001785",
+      "msg_001865",
+      "msg_001901",
+      "msg_001970"
+    ]
+  },
+  {
+    "term": "his",
+    "count": 168,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000586",
+      "msg_001100",
+      "msg_001557",
+      "msg_001862",
+      "msg_001909"
+    ]
+  },
+  {
+    "term": "traditional",
+    "count": 166,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000649",
+      "msg_002041",
+      "msg_002158",
+      "msg_002203",
+      "msg_002448"
+    ]
+  },
+  {
+    "term": "complex",
+    "count": 166,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000653",
+      "msg_002034",
+      "msg_002175",
+      "msg_002304",
+      "msg_002395"
+    ]
+  },
+  {
+    "term": "problem",
+    "count": 165,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000577",
+      "msg_000605",
+      "msg_002034",
+      "msg_002120",
+      "msg_002145"
+    ]
+  },
+  {
+    "term": "find",
+    "count": 165,
+    "author_count": 22,
+    "sample_messages": [
+      "msg_000734",
+      "msg_000749",
+      "msg_000753",
+      "msg_000760",
+      "msg_000762"
+    ]
+  },
+  {
+    "term": "real-time",
+    "count": 165,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001938",
+      "msg_002039",
+      "msg_002041",
+      "msg_002203",
+      "msg_002628"
+    ]
+  },
+  {
+    "term": "trust",
+    "count": 164,
+    "author_count": 36,
+    "sample_messages": [
+      "msg_000126",
+      "msg_000127",
+      "msg_000128",
+      "msg_000130",
+      "msg_000141"
+    ]
+  },
+  {
+    "term": "search",
+    "count": 164,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_001405",
+      "msg_001731",
+      "msg_002162",
+      "msg_002164",
+      "msg_002166"
+    ]
+  },
+  {
+    "term": "fascinating",
+    "count": 164,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_001858",
+      "msg_001862",
+      "msg_001867",
+      "msg_001923",
+      "msg_001993"
+    ]
+  },
+  {
+    "term": "act",
+    "count": 164,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001993",
+      "msg_003014",
+      "msg_003036",
+      "msg_003041",
+      "msg_003119"
+    ]
+  },
+  {
+    "term": "collective intelligence",
+    "count": 163,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001858",
+      "msg_001862",
+      "msg_001989",
+      "msg_002010",
+      "msg_002012"
+    ]
+  },
+  {
+    "term": "discussions",
+    "count": 162,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_000643",
+      "msg_001746",
+      "msg_001862",
+      "msg_001923",
+      "msg_001970"
+    ]
+  },
+  {
+    "term": "integration",
+    "count": 161,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001940",
+      "msg_002022",
+      "msg_002045",
+      "msg_002162",
+      "msg_002203"
+    ]
+  },
+  {
+    "term": "individual",
+    "count": 160,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001832",
+      "msg_002032",
+      "msg_002162",
+      "msg_002749",
+      "msg_002844"
+    ]
+  },
+  {
+    "term": "frameworks",
+    "count": 160,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001862",
+      "msg_001903",
+      "msg_002022",
+      "msg_002154",
+      "msg_002175"
+    ]
+  },
+  {
+    "term": "everyone",
+    "count": 159,
+    "author_count": 35,
+    "sample_messages": [
+      "msg_000039",
+      "msg_000060",
+      "msg_000116",
+      "msg_000129",
+      "msg_000137"
+    ]
+  },
+  {
+    "term": "potential",
+    "count": 158,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_001113",
+      "msg_001114",
+      "msg_001219",
+      "msg_001320",
+      "msg_001335"
+    ]
+  },
+  {
+    "term": "vision",
+    "count": 158,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_001521",
+      "msg_001722",
+      "msg_002048",
+      "msg_002630",
+      "msg_002844"
+    ]
+  },
+  {
+    "term": "process",
+    "count": 157,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000098",
+      "msg_001305",
+      "msg_001410",
+      "msg_001416",
+      "msg_001948"
+    ]
+  },
+  {
+    "term": "recent",
+    "count": 156,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001539",
+      "msg_001899",
+      "msg_001923",
+      "msg_002082",
+      "msg_002087"
+    ]
+  },
+  {
+    "term": "quantum",
+    "count": 156,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002872",
+      "msg_002936",
+      "msg_002973",
+      "msg_003039",
+      "msg_003043"
+    ]
+  },
+  {
+    "term": "light",
+    "count": 155,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000071",
+      "msg_000074",
+      "msg_000083",
+      "msg_000086",
+      "msg_000088"
+    ]
+  },
+  {
+    "term": "yet",
+    "count": 155,
+    "author_count": 24,
+    "sample_messages": [
+      "msg_000286",
+      "msg_000335",
+      "msg_000751",
+      "msg_001092",
+      "msg_001274"
+    ]
+  },
+  {
+    "term": "else",
+    "count": 155,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001923",
+      "msg_002087",
+      "msg_002516",
+      "msg_002655",
+      "msg_002656"
+    ]
+  },
+  {
+    "term": "engine",
+    "count": 155,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002444",
+      "msg_002448",
+      "msg_002893",
+      "msg_002910",
+      "msg_002912"
+    ]
+  },
+  {
+    "term": "spaces",
+    "count": 154,
+    "author_count": 18,
+    "sample_messages": [
+      "msg_000095",
+      "msg_000097",
+      "msg_000098",
+      "msg_000122",
+      "msg_000124"
+    ]
+  },
+  {
+    "term": "love",
+    "count": 153,
+    "author_count": 29,
+    "sample_messages": [
+      "msg_000020",
+      "msg_000034",
+      "msg_000035",
+      "msg_000075",
+      "msg_000103"
+    ]
+  },
+  {
+    "term": "code",
+    "count": 153,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000515",
+      "msg_002119",
+      "msg_002121",
+      "msg_002124",
+      "msg_002481"
+    ]
+  },
+  {
+    "term": "platform",
+    "count": 153,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000618",
+      "msg_001691",
+      "msg_002039",
+      "msg_002041",
+      "msg_002336"
+    ]
+  },
+  {
+    "term": "working",
+    "count": 152,
+    "author_count": 19,
+    "sample_messages": [
+      "msg_000195",
+      "msg_000347",
+      "msg_000408",
+      "msg_000736",
+      "msg_000854"
+    ]
+  },
+  {
+    "term": "better",
+    "count": 151,
+    "author_count": 20,
+    "sample_messages": [
+      "msg_000187",
+      "msg_000559",
+      "msg_000644",
+      "msg_000649",
+      "msg_001474"
+    ]
+  },
+  {
+    "term": "conversations",
+    "count": 151,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000651",
+      "msg_001320",
+      "msg_001746",
+      "msg_001865",
+      "msg_001889"
+    ]
+  },
+  {
+    "term": "dao",
+    "count": 150,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_001215",
+      "msg_001942",
+      "msg_002034",
+      "msg_002429",
+      "msg_002430"
+    ]
+  },
+  {
+    "term": "energy",
+    "count": 149,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001665",
+      "msg_001895",
+      "msg_001970",
+      "msg_002320",
+      "msg_002479"
+    ]
+  },
+  {
+    "term": "storylivingry",
+    "count": 149,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_004807",
+      "msg_004812",
+      "msg_004819",
+      "msg_004827",
+      "msg_004828"
+    ]
+  },
+  {
+    "term": "moving",
+    "count": 148,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001274",
+      "msg_001993",
+      "msg_002037",
+      "msg_002416",
+      "msg_002422"
+    ]
+  },
+  {
+    "term": "meaning",
+    "count": 148,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_002029",
+      "msg_002164",
+      "msg_002304",
+      "msg_002989",
+      "msg_003013"
+    ]
+  },
+  {
+    "term": "today",
+    "count": 147,
+    "author_count": 25,
+    "sample_messages": [
+      "msg_000020",
+      "msg_000095",
+      "msg_000101",
+      "msg_000104",
+      "msg_000122"
+    ]
+  },
+  {
+    "term": "insight",
+    "count": 147,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001747",
+      "msg_002014",
+      "msg_002162",
+      "msg_002304",
+      "msg_002868"
+    ]
+  },
+  {
+    "term": "processing",
+    "count": 147,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001969",
+      "msg_001971",
+      "msg_002069",
+      "msg_002083",
+      "msg_002151"
+    ]
+  },
+  {
+    "term": "metabolic",
+    "count": 147,
+    "author_count": 3,
+    "sample_messages": [
+      "msg_003215",
+      "msg_006330",
+      "msg_006881",
+      "msg_006892",
+      "msg_006906"
+    ]
+  },
+  {
+    "term": "interesting",
+    "count": 146,
+    "author_count": 20,
+    "sample_messages": [
+      "msg_000347",
+      "msg_000749",
+      "msg_001003",
+      "msg_001410",
+      "msg_001440"
+    ]
+  },
+  {
+    "term": "relationships",
+    "count": 146,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001829",
+      "msg_001923",
+      "msg_002043",
+      "msg_002736",
+      "msg_002738"
+    ]
+  },
+  {
+    "term": "sovereignty",
+    "count": 146,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002298",
+      "msg_003054",
+      "msg_003056",
+      "msg_003815",
+      "msg_003819"
+    ]
+  },
+  {
+    "term": "signal",
+    "count": 144,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000143",
+      "msg_002014",
+      "msg_002162",
+      "msg_002906",
+      "msg_002967"
+    ]
+  },
+  {
+    "term": "tools",
+    "count": 143,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000193",
+      "msg_000647",
+      "msg_001746",
+      "msg_001993",
+      "msg_002428"
+    ]
+  },
+  {
+    "term": "project",
+    "count": 143,
+    "author_count": 27,
+    "sample_messages": [
+      "msg_000318",
+      "msg_000347",
+      "msg_000373",
+      "msg_000688",
+      "msg_000736"
+    ]
+  },
+  {
+    "term": "actual",
+    "count": 142,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000516",
+      "msg_000653",
+      "msg_000656",
+      "msg_001746",
+      "msg_002010"
+    ]
+  },
+  {
+    "term": "contributions",
+    "count": 142,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000608",
+      "msg_001363",
+      "msg_001923",
+      "msg_001940",
+      "msg_002130"
+    ]
+  },
+  {
+    "term": "structures",
+    "count": 142,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001746",
+      "msg_002034",
+      "msg_002037",
+      "msg_002497",
+      "msg_002499"
+    ]
+  },
+  {
+    "term": "bridge",
+    "count": 141,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000023",
+      "msg_001970",
+      "msg_002203",
+      "msg_002504",
+      "msg_002529"
+    ]
+  },
+  {
+    "term": "shift",
+    "count": 141,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_002012",
+      "msg_002902",
+      "msg_003004",
+      "msg_003020",
+      "msg_003153"
+    ]
+  },
+  {
+    "term": "future",
+    "count": 140,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000052",
+      "msg_000379",
+      "msg_000580",
+      "msg_001119",
+      "msg_001207"
+    ]
+  },
+  {
+    "term": "curious",
+    "count": 140,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000838",
+      "msg_001101",
+      "msg_001398",
+      "msg_001408",
+      "msg_001862"
+    ]
+  },
+  {
+    "term": "currently",
+    "count": 140,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_001407",
+      "msg_001938",
+      "msg_002127",
+      "msg_002129",
+      "msg_002245"
+    ]
+  },
+  {
+    "term": "heist",
+    "count": 140,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002967",
+      "msg_002968",
+      "msg_002970",
+      "msg_002974",
+      "msg_003151"
+    ]
+  },
+  {
+    "term": "needs",
+    "count": 139,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000184",
+      "msg_000651",
+      "msg_000711",
+      "msg_001580",
+      "msg_001705"
+    ]
+  },
+  {
+    "term": "concepts",
+    "count": 139,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000588",
+      "msg_001746",
+      "msg_002024",
+      "msg_002074",
+      "msg_002205"
+    ]
+  },
+  {
+    "term": "beyond",
+    "count": 139,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000983",
+      "msg_002037",
+      "msg_002081",
+      "msg_002205",
+      "msg_002529"
+    ]
+  },
+  {
+    "term": "active",
+    "count": 139,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001234",
+      "msg_001899",
+      "msg_001923",
+      "msg_001938",
+      "msg_002609"
+    ]
+  },
+  {
+    "term": "built",
+    "count": 138,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000020",
+      "msg_000960",
+      "msg_001113",
+      "msg_001732",
+      "msg_002039"
+    ]
+  },
+  {
+    "term": "entire",
+    "count": 138,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000653",
+      "msg_002304",
+      "msg_002630",
+      "msg_002636",
+      "msg_002637"
+    ]
+  },
+  {
+    "term": "concept",
+    "count": 137,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000036",
+      "msg_000343",
+      "msg_000884",
+      "msg_001746",
+      "msg_002210"
+    ]
+  },
+  {
+    "term": "whole",
+    "count": 137,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000601",
+      "msg_001555",
+      "msg_001687",
+      "msg_001940",
+      "msg_001993"
+    ]
+  },
+  {
+    "term": "mapping",
+    "count": 136,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002069",
+      "msg_002516",
+      "msg_002525",
+      "msg_002527",
+      "msg_002658"
+    ]
+  },
+  {
+    "term": "means",
+    "count": 135,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001365",
+      "msg_001889",
+      "msg_001993",
+      "msg_002302",
+      "msg_002889"
+    ]
+  },
+  {
+    "term": "call",
+    "count": 134,
+    "author_count": 19,
+    "sample_messages": [
+      "msg_000020",
+      "msg_000307",
+      "msg_000992",
+      "msg_001056",
+      "msg_001224"
+    ]
+  },
+  {
+    "term": "economic",
+    "count": 134,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002032",
+      "msg_002045",
+      "msg_002813",
+      "msg_002910",
+      "msg_002912"
+    ]
+  },
+  {
+    "term": "economy",
+    "count": 133,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000740",
+      "msg_001746",
+      "msg_002074",
+      "msg_002302",
+      "msg_002395"
+    ]
+  },
+  {
+    "term": "contribution",
+    "count": 133,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001942",
+      "msg_002041",
+      "msg_002138",
+      "msg_002302",
+      "msg_002906"
+    ]
+  },
+  {
+    "term": "distributed",
+    "count": 133,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_002037",
+      "msg_002074",
+      "msg_002076",
+      "msg_002119",
+      "msg_002154"
+    ]
+  },
+  {
+    "term": "access",
+    "count": 132,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000189",
+      "msg_000660",
+      "msg_002032",
+      "msg_002089",
+      "msg_002241"
+    ]
+  },
+  {
+    "term": "design",
+    "count": 132,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000734",
+      "msg_000736",
+      "msg_000741",
+      "msg_001685",
+      "msg_001688"
+    ]
+  },
+  {
+    "term": "development",
+    "count": 132,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001746",
+      "msg_001921",
+      "msg_001936",
+      "msg_001938",
+      "msg_001940"
+    ]
+  },
+  {
+    "term": "genuine",
+    "count": 132,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001761",
+      "msg_002012",
+      "msg_002022",
+      "msg_002164",
+      "msg_002175"
+    ]
+  },
+  {
+    "term": "philosophical",
+    "count": 132,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001862",
+      "msg_001865",
+      "msg_001867",
+      "msg_001872",
+      "msg_001903"
+    ]
+  },
+  {
+    "term": "coherence",
+    "count": 132,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_003016",
+      "msg_003100",
+      "msg_003602",
+      "msg_003606",
+      "msg_003611"
+    ]
+  },
+  {
+    "term": "content",
+    "count": 131,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000601",
+      "msg_000711",
+      "msg_000854",
+      "msg_001771",
+      "msg_001921"
+    ]
+  },
+  {
+    "term": "single",
+    "count": 131,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002670",
+      "msg_003106",
+      "msg_003141",
+      "msg_003553",
+      "msg_003611"
+    ]
+  },
+  {
+    "term": "suggests",
+    "count": 131,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_003197",
+      "msg_003226",
+      "msg_003595",
+      "msg_003618",
+      "msg_003646"
+    ]
+  },
+  {
+    "term": "doing",
+    "count": 130,
+    "author_count": 25,
+    "sample_messages": [
+      "msg_000167",
+      "msg_000188",
+      "msg_000327",
+      "msg_000398",
+      "msg_000402"
+    ]
+  },
+  {
+    "term": "particularly",
+    "count": 130,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002205",
+      "msg_002291",
+      "msg_002497",
+      "msg_002598",
+      "msg_002700"
+    ]
+  },
+  {
+    "term": "fundamental",
+    "count": 129,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002074",
+      "msg_003093",
+      "msg_003149",
+      "msg_003151",
+      "msg_003246"
+    ]
+  },
+  {
+    "term": "understand",
+    "count": 128,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000657",
+      "msg_001521",
+      "msg_002122",
+      "msg_002132",
+      "msg_002162"
+    ]
+  },
+  {
+    "term": "theory",
+    "count": 128,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001611",
+      "msg_002074",
+      "msg_003048",
+      "msg_003114",
+      "msg_003153"
+    ]
+  },
+  {
+    "term": "perfectly",
+    "count": 128,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002175",
+      "msg_002527",
+      "msg_002891",
+      "msg_003018",
+      "msg_003100"
+    ]
+  },
+  {
+    "term": "having",
+    "count": 127,
+    "author_count": 19,
+    "sample_messages": [
+      "msg_000179",
+      "msg_000651",
+      "msg_000657",
+      "msg_000659",
+      "msg_001006"
+    ]
+  },
+  {
+    "term": "creative",
+    "count": 127,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000343",
+      "msg_001936",
+      "msg_001940",
+      "msg_001942",
+      "msg_001970"
+    ]
+  },
+  {
+    "term": "feels",
+    "count": 127,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000648",
+      "msg_000658",
+      "msg_000659",
+      "msg_001970",
+      "msg_002037"
+    ]
+  },
+  {
+    "term": "ask",
+    "count": 127,
+    "author_count": 20,
+    "sample_messages": [
+      "msg_000679",
+      "msg_000687",
+      "msg_000980",
+      "msg_001695",
+      "msg_001814"
+    ]
+  },
+  {
+    "term": "analysis",
+    "count": 127,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002014",
+      "msg_002041",
+      "msg_002628",
+      "msg_002885",
+      "msg_002887"
+    ]
+  },
+  {
+    "term": "collapse",
+    "count": 127,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_002081",
+      "msg_003159",
+      "msg_003666",
+      "msg_003668",
+      "msg_003672"
+    ]
+  },
+  {
+    "term": "focus",
+    "count": 126,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000187",
+      "msg_000335",
+      "msg_000734",
+      "msg_001862",
+      "msg_001921"
+    ]
+  },
+  {
+    "term": "territory",
+    "count": 126,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001746",
+      "msg_002014",
+      "msg_002022",
+      "msg_002024",
+      "msg_002081"
+    ]
+  },
+  {
+    "term": "connects",
+    "count": 126,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001862",
+      "msg_001993",
+      "msg_002043",
+      "msg_002527",
+      "msg_002765"
+    ]
+  },
+  {
+    "term": "truth",
+    "count": 126,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_002501",
+      "msg_002910",
+      "msg_002912",
+      "msg_003110",
+      "msg_003264"
+    ]
+  },
+  {
+    "term": "another",
+    "count": 125,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000122",
+      "msg_000138",
+      "msg_000200",
+      "msg_000210",
+      "msg_000217"
+    ]
+  },
+  {
+    "term": "egg",
+    "count": 125,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001458",
+      "msg_001465",
+      "msg_001476",
+      "msg_001477",
+      "msg_001480"
+    ]
+  },
+  {
+    "term": "often",
+    "count": 125,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_002010",
+      "msg_002030",
+      "msg_002043",
+      "msg_002250",
+      "msg_002525"
+    ]
+  },
+  {
+    "term": "models",
+    "count": 125,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_002012",
+      "msg_002034",
+      "msg_002039",
+      "msg_002043",
+      "msg_002048"
+    ]
+  },
+  {
+    "term": "simultaneously",
+    "count": 125,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002034",
+      "msg_003041",
+      "msg_003219",
+      "msg_003223",
+      "msg_003226"
+    ]
+  },
+  {
+    "term": "recognition",
+    "count": 125,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002074",
+      "msg_002164",
+      "msg_002639",
+      "msg_002673",
+      "msg_002742"
+    ]
+  },
+  {
+    "term": "maps",
+    "count": 125,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002658",
+      "msg_003071",
+      "msg_003072",
+      "msg_003100",
+      "msg_003101"
+    ]
+  },
+  {
+    "term": "strategic",
+    "count": 123,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_000288",
+      "msg_002175",
+      "msg_002205",
+      "msg_002842",
+      "msg_002883"
+    ]
+  },
+  {
+    "term": "user",
+    "count": 123,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_001407",
+      "msg_001414",
+      "msg_002408",
+      "msg_003013",
+      "msg_003014"
+    ]
+  },
+  {
+    "term": "possible",
+    "count": 122,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000186",
+      "msg_000218",
+      "msg_001697",
+      "msg_002305",
+      "msg_002519"
+    ]
+  },
+  {
+    "term": "power",
+    "count": 122,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000256",
+      "msg_000657",
+      "msg_000868",
+      "msg_001521",
+      "msg_002034"
+    ]
+  },
+  {
+    "term": "discussed",
+    "count": 122,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000777",
+      "msg_001695",
+      "msg_002865",
+      "msg_003006",
+      "msg_003097"
+    ]
+  },
+  {
+    "term": "essentially",
+    "count": 121,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001940",
+      "msg_002074",
+      "msg_002123",
+      "msg_002428",
+      "msg_002525"
+    ]
+  },
+  {
+    "term": "crypto",
+    "count": 120,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000090",
+      "msg_000256",
+      "msg_000876",
+      "msg_001116",
+      "msg_001117"
+    ]
+  },
+  {
+    "term": "until",
+    "count": 120,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000095",
+      "msg_001301",
+      "msg_001361",
+      "msg_001924",
+      "msg_002011"
+    ]
+  },
+  {
+    "term": "works",
+    "count": 120,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000439",
+      "msg_000649",
+      "msg_000734",
+      "msg_001867",
+      "msg_002074"
+    ]
+  },
+  {
+    "term": "relationship",
+    "count": 120,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002012",
+      "msg_002014",
+      "msg_002525",
+      "msg_002527",
+      "msg_002531"
+    ]
+  },
+  {
+    "term": "recursive",
+    "count": 120,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002989",
+      "msg_002995",
+      "msg_003008",
+      "msg_003108",
+      "msg_003110"
+    ]
+  },
+  {
+    "term": "story",
+    "count": 119,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000140",
+      "msg_000586",
+      "msg_001205",
+      "msg_001521",
+      "msg_001694"
+    ]
+  },
+  {
+    "term": "team",
+    "count": 119,
+    "author_count": 20,
+    "sample_messages": [
+      "msg_000192",
+      "msg_000228",
+      "msg_000318",
+      "msg_000432",
+      "msg_000438"
+    ]
+  },
+  {
+    "term": "connection",
+    "count": 119,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_000754",
+      "msg_002041",
+      "msg_002064",
+      "msg_002069",
+      "msg_002414"
+    ]
+  },
+  {
+    "term": "tracking",
+    "count": 119,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001742",
+      "msg_002041",
+      "msg_002516",
+      "msg_002525",
+      "msg_002527"
+    ]
+  },
+  {
+    "term": "networks",
+    "count": 119,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001858",
+      "msg_001862",
+      "msg_001993",
+      "msg_002043",
+      "msg_002201"
+    ]
+  },
+  {
+    "term": "function",
+    "count": 119,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_003211",
+      "msg_003545",
+      "msg_003569",
+      "msg_003597",
+      "msg_003618"
+    ]
+  },
+  {
+    "term": "asking",
+    "count": 118,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_001666",
+      "msg_001899",
+      "msg_002069",
+      "msg_002081",
+      "msg_002275"
+    ]
+  },
+  {
+    "term": "capture",
+    "count": 118,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_002224",
+      "msg_002525",
+      "msg_002527",
+      "msg_002531",
+      "msg_002655"
+    ]
+  },
+  {
+    "term": "tell",
+    "count": 117,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000140",
+      "msg_000167",
+      "msg_001091",
+      "msg_001363",
+      "msg_001574"
+    ]
+  },
+  {
+    "term": "points",
+    "count": 117,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001909",
+      "msg_002130",
+      "msg_002160",
+      "msg_002895",
+      "msg_002908"
+    ]
+  },
+  {
+    "term": "deeper",
+    "count": 117,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001936",
+      "msg_002039",
+      "msg_002422",
+      "msg_002448",
+      "msg_002495"
+    ]
+  },
+  {
+    "term": "implementation",
+    "count": 117,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001938",
+      "msg_002439",
+      "msg_002813",
+      "msg_003093",
+      "msg_003100"
+    ]
+  },
+  {
+    "term": "synthesis",
+    "count": 117,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_002014",
+      "msg_002525",
+      "msg_002705",
+      "msg_002765",
+      "msg_002984"
+    ]
+  },
+  {
+    "term": "history",
+    "count": 117,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002162",
+      "msg_002164",
+      "msg_002609",
+      "msg_002611",
+      "msg_002946"
+    ]
+  },
+  {
+    "term": "superposition",
+    "count": 117,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_003661",
+      "msg_003662",
+      "msg_003664",
+      "msg_003665",
+      "msg_003666"
+    ]
+  },
+  {
+    "term": "trying",
+    "count": 116,
+    "author_count": 21,
+    "sample_messages": [
+      "msg_000186",
+      "msg_000403",
+      "msg_000473",
+      "msg_000545",
+      "msg_000619"
+    ]
+  },
+  {
+    "term": "represents",
+    "count": 116,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001746",
+      "msg_002416",
+      "msg_003248",
+      "msg_003666",
+      "msg_003732"
+    ]
+  },
+  {
+    "term": "technology",
+    "count": 116,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001782",
+      "msg_002636",
+      "msg_002639",
+      "msg_002700",
+      "msg_002781"
+    ]
+  },
+  {
+    "term": "identity",
+    "count": 116,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002005",
+      "msg_002022",
+      "msg_002024",
+      "msg_002043",
+      "msg_003756"
+    ]
+  },
+  {
+    "term": "noosphere",
+    "count": 116,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_002967",
+      "msg_002968",
+      "msg_002974",
+      "msg_003502",
+      "msg_003735"
+    ]
+  },
+  {
+    "term": "coordinate",
+    "count": 115,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000740",
+      "msg_001392",
+      "msg_001940",
+      "msg_001993",
+      "msg_002201"
+    ]
+  },
+  {
+    "term": "communities",
+    "count": 115,
+    "author_count": 18,
+    "sample_messages": [
+      "msg_001113",
+      "msg_001921",
+      "msg_001924",
+      "msg_001970",
+      "msg_001993"
+    ]
+  },
+  {
+    "term": "vitalik",
+    "count": 115,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001151",
+      "msg_001345",
+      "msg_004093",
+      "msg_004907",
+      "msg_004923"
+    ]
+  },
+  {
+    "term": "deep",
+    "count": 114,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000960",
+      "msg_001688",
+      "msg_001872",
+      "msg_002012",
+      "msg_002014"
+    ]
+  },
+  {
+    "term": "logic",
+    "count": 114,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_002416",
+      "msg_002422",
+      "msg_002481",
+      "msg_003581",
+      "msg_003827"
+    ]
+  },
+  {
+    "term": "experience",
+    "count": 113,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000184",
+      "msg_001113",
+      "msg_001197",
+      "msg_001688",
+      "msg_001940"
+    ]
+  },
+  {
+    "term": "research",
+    "count": 113,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000228",
+      "msg_000408",
+      "msg_000749",
+      "msg_000752",
+      "msg_001970"
+    ]
+  },
+  {
+    "term": "open",
+    "count": 113,
+    "author_count": 21,
+    "sample_messages": [
+      "msg_000434",
+      "msg_000644",
+      "msg_000707",
+      "msg_001133",
+      "msg_001409"
+    ]
+  },
+  {
+    "term": "tension",
+    "count": 113,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002034",
+      "msg_002908",
+      "msg_002910",
+      "msg_003002",
+      "msg_003116"
+    ]
+  },
+  {
+    "term": "static",
+    "count": 113,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002205",
+      "msg_003575",
+      "msg_003651",
+      "msg_003653",
+      "msg_003655"
+    ]
+  },
+  {
+    "term": "humans",
+    "count": 112,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000036",
+      "msg_000653",
+      "msg_000656",
+      "msg_002005",
+      "msg_002010"
+    ]
+  },
+  {
+    "term": "projects",
+    "count": 112,
+    "author_count": 20,
+    "sample_messages": [
+      "msg_000101",
+      "msg_000649",
+      "msg_000745",
+      "msg_001109",
+      "msg_001636"
+    ]
+  },
+  {
+    "term": "action",
+    "count": 112,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000194",
+      "msg_001989",
+      "msg_001993",
+      "msg_002032",
+      "msg_002413"
+    ]
+  },
+  {
+    "term": "scale",
+    "count": 112,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000647",
+      "msg_002034",
+      "msg_002037",
+      "msg_002622",
+      "msg_002624"
+    ]
+  },
+  {
+    "term": "provides",
+    "count": 112,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_003546",
+      "msg_003634",
+      "msg_003646",
+      "msg_003763",
+      "msg_003774"
+    ]
+  },
+  {
+    "term": "gets",
+    "count": 111,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000334",
+      "msg_000350",
+      "msg_000656",
+      "msg_001940",
+      "msg_001942"
+    ]
+  },
+  {
+    "term": "tokens",
+    "count": 111,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_001359",
+      "msg_002034",
+      "msg_002136",
+      "msg_003252",
+      "msg_003256"
+    ]
+  },
+  {
+    "term": "change",
+    "count": 111,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001854",
+      "msg_002960",
+      "msg_003000",
+      "msg_003004",
+      "msg_003437"
+    ]
+  },
+  {
+    "term": "game",
+    "count": 110,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000563",
+      "msg_002174",
+      "msg_002416",
+      "msg_002891",
+      "msg_002893"
+    ]
+  },
+  {
+    "term": "best",
+    "count": 110,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000647",
+      "msg_000653",
+      "msg_000945",
+      "msg_001473",
+      "msg_001753"
+    ]
+  },
+  {
+    "term": "others",
+    "count": 110,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_001409",
+      "msg_001746",
+      "msg_001942",
+      "msg_002115",
+      "msg_002118"
+    ]
+  },
+  {
+    "term": "emerge",
+    "count": 110,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002160",
+      "msg_002428",
+      "msg_002430",
+      "msg_002439",
+      "msg_002885"
+    ]
+  },
+  {
+    "term": "resonance",
+    "count": 110,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_002872",
+      "msg_002900",
+      "msg_002960",
+      "msg_003121",
+      "msg_003686"
+    ]
+  },
+  {
+    "term": "read",
+    "count": 109,
+    "author_count": 22,
+    "sample_messages": [
+      "msg_000033",
+      "msg_000584",
+      "msg_000586",
+      "msg_000739",
+      "msg_000806"
+    ]
+  },
+  {
+    "term": "learning",
+    "count": 109,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000318",
+      "msg_001942",
+      "msg_002041",
+      "msg_002048",
+      "msg_002201"
+    ]
+  },
+  {
+    "term": "designed",
+    "count": 109,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000695",
+      "msg_001765",
+      "msg_001865",
+      "msg_001903",
+      "msg_001940"
+    ]
+  },
+  {
+    "term": "down",
+    "count": 108,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000188",
+      "msg_000335",
+      "msg_000638",
+      "msg_000656",
+      "msg_001301"
+    ]
+  },
+  {
+    "term": "000",
+    "count": 108,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001415",
+      "msg_003632",
+      "msg_004093",
+      "msg_004094",
+      "msg_004096"
+    ]
+  },
+  {
+    "term": "answer",
+    "count": 107,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_001362",
+      "msg_001748",
+      "msg_001751",
+      "msg_001754",
+      "msg_001755"
+    ]
+  },
+  {
+    "term": "physical",
+    "count": 107,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001762",
+      "msg_002032",
+      "msg_002045",
+      "msg_002081",
+      "msg_002439"
+    ]
+  },
+  {
+    "term": "protocols",
+    "count": 106,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000187",
+      "msg_001993",
+      "msg_002422",
+      "msg_002439",
+      "msg_002443"
+    ]
+  },
+  {
+    "term": "feedback",
+    "count": 106,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001660",
+      "msg_001938",
+      "msg_002397",
+      "msg_003093",
+      "msg_003126"
+    ]
+  },
+  {
+    "term": "capabilities",
+    "count": 106,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001899",
+      "msg_002158",
+      "msg_002527",
+      "msg_002624",
+      "msg_002626"
+    ]
+  },
+  {
+    "term": "creation",
+    "count": 106,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002039",
+      "msg_002074",
+      "msg_002160",
+      "msg_002245",
+      "msg_002638"
+    ]
+  },
+  {
+    "term": "collaboration",
+    "count": 105,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000189",
+      "msg_001133",
+      "msg_002022",
+      "msg_002201",
+      "msg_002203"
+    ]
+  },
+  {
+    "term": "machine",
+    "count": 105,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000318",
+      "msg_002416",
+      "msg_003119",
+      "msg_003121",
+      "msg_003500"
+    ]
+  },
+  {
+    "term": "via",
+    "count": 105,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000361",
+      "msg_001731",
+      "msg_001742",
+      "msg_002251",
+      "msg_002967"
+    ]
+  },
+  {
+    "term": "response",
+    "count": 105,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000381",
+      "msg_002028",
+      "msg_002656",
+      "msg_003036",
+      "msg_003038"
+    ]
+  },
+  {
+    "term": "mind",
+    "count": 105,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_001545",
+      "msg_001633",
+      "msg_001666",
+      "msg_001858",
+      "msg_001887"
+    ]
+  },
+  {
+    "term": "simply",
+    "count": 105,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002273",
+      "msg_002499",
+      "msg_002642",
+      "msg_003587",
+      "msg_003589"
+    ]
+  },
+  {
+    "term": "sovereign",
+    "count": 105,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_004185",
+      "msg_004784",
+      "msg_004786",
+      "msg_004788",
+      "msg_004791"
+    ]
+  },
+  {
+    "term": "edge",
+    "count": 104,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000188",
+      "msg_001553",
+      "msg_001775",
+      "msg_002042",
+      "msg_002043"
+    ]
+  },
+  {
+    "term": "hold",
+    "count": 104,
+    "author_count": 18,
+    "sample_messages": [
+      "msg_000558",
+      "msg_000734",
+      "msg_000945",
+      "msg_000978",
+      "msg_001125"
+    ]
+  },
+  {
+    "term": "true",
+    "count": 104,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000594",
+      "msg_001119",
+      "msg_002148",
+      "msg_002348",
+      "msg_002499"
+    ]
+  },
+  {
+    "term": "dynamic",
+    "count": 104,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001858",
+      "msg_002203",
+      "msg_002253",
+      "msg_002304",
+      "msg_002960"
+    ]
+  },
+  {
+    "term": "allows",
+    "count": 104,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_002125",
+      "msg_003529",
+      "msg_003763",
+      "msg_003774",
+      "msg_003783"
+    ]
+  },
+  {
+    "term": "stack",
+    "count": 103,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000335",
+      "msg_002781",
+      "msg_003541",
+      "msg_003542",
+      "msg_003544"
+    ]
+  },
+  {
+    "term": "tool",
+    "count": 103,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000709",
+      "msg_001921",
+      "msg_002119",
+      "msg_002302",
+      "msg_002738"
+    ]
+  },
+  {
+    "term": "evolution",
+    "count": 103,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001923",
+      "msg_002022",
+      "msg_002034",
+      "msg_002516",
+      "msg_002671"
+    ]
+  },
+  {
+    "term": "complexity",
+    "count": 103,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002076",
+      "msg_002639",
+      "msg_002895",
+      "msg_003113",
+      "msg_003114"
+    ]
+  },
+  {
+    "term": "simple",
+    "count": 102,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000560",
+      "msg_000638",
+      "msg_002026",
+      "msg_002028",
+      "msg_002138"
+    ]
+  },
+  {
+    "term": "valuable",
+    "count": 102,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001936",
+      "msg_001940",
+      "msg_001942",
+      "msg_002014",
+      "msg_002037"
+    ]
+  },
+  {
+    "term": "connect",
+    "count": 101,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000184",
+      "msg_000186",
+      "msg_000340",
+      "msg_000351",
+      "msg_000360"
+    ]
+  },
+  {
+    "term": "users",
+    "count": 101,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000745",
+      "msg_001115",
+      "msg_001407",
+      "msg_001989",
+      "msg_002039"
+    ]
+  },
+  {
+    "term": "three",
+    "count": 101,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_003010",
+      "msg_003012",
+      "msg_003101",
+      "msg_003508",
+      "msg_003701"
+    ]
+  },
+  {
+    "term": "profound",
+    "count": 100,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002032",
+      "msg_002655",
+      "msg_002785",
+      "msg_003086",
+      "msg_003112"
+    ]
+  },
+  {
+    "term": "shows",
+    "count": 100,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002078",
+      "msg_002611",
+      "msg_002653",
+      "msg_002700",
+      "msg_002736"
+    ]
+  },
+  {
+    "term": "provide",
+    "count": 99,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000647",
+      "msg_000651",
+      "msg_002030",
+      "msg_002147",
+      "msg_002148"
+    ]
+  },
+  {
+    "term": "getting",
+    "count": 99,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_001081",
+      "msg_001097",
+      "msg_002010",
+      "msg_002022",
+      "msg_002081"
+    ]
+  },
+  {
+    "term": "existing",
+    "count": 99,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001164",
+      "msg_002037",
+      "msg_002127",
+      "msg_002203",
+      "msg_002439"
+    ]
+  },
+  {
+    "term": "mentioned",
+    "count": 99,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001414",
+      "msg_001579",
+      "msg_001584",
+      "msg_001903",
+      "msg_001909"
+    ]
+  },
+  {
+    "term": "maintain",
+    "count": 99,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002034",
+      "msg_002037",
+      "msg_002069",
+      "msg_002205",
+      "msg_002700"
+    ]
+  },
+  {
+    "term": "modular",
+    "count": 99,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_003612",
+      "msg_003613",
+      "msg_003969",
+      "msg_004018",
+      "msg_004019"
+    ]
+  },
+  {
+    "term": "day",
+    "count": 98,
+    "author_count": 18,
+    "sample_messages": [
+      "msg_000095",
+      "msg_000262",
+      "msg_000359",
+      "msg_000371",
+      "msg_000410"
+    ]
+  },
+  {
+    "term": "given",
+    "count": 98,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001411",
+      "msg_001993",
+      "msg_002010",
+      "msg_002012",
+      "msg_002014"
+    ]
+  },
+  {
+    "term": "exists",
+    "count": 98,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002085",
+      "msg_002968",
+      "msg_003101",
+      "msg_003501",
+      "msg_003508"
+    ]
+  },
+  {
+    "term": "erc-8004",
+    "count": 98,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_003713",
+      "msg_003744",
+      "msg_003746",
+      "msg_003748",
+      "msg_003750"
+    ]
+  },
+  {
+    "term": "questions",
+    "count": 97,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000745",
+      "msg_000854",
+      "msg_000980",
+      "msg_001940",
+      "msg_002076"
+    ]
+  },
+  {
+    "term": "raw",
+    "count": 97,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001475",
+      "msg_001476",
+      "msg_001480",
+      "msg_001488",
+      "msg_001498"
+    ]
+  },
+  {
+    "term": "broader",
+    "count": 97,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001942",
+      "msg_001993",
+      "msg_002656",
+      "msg_002988",
+      "msg_003072"
+    ]
+  },
+  {
+    "term": "collapses",
+    "count": 97,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_003662",
+      "msg_003664",
+      "msg_003666",
+      "msg_003670",
+      "msg_004419"
+    ]
+  },
+  {
+    "term": "beautiful",
+    "count": 96,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000400",
+      "msg_000921",
+      "msg_002373",
+      "msg_002450",
+      "msg_002501"
+    ]
+  },
+  {
+    "term": "control",
+    "count": 96,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000656",
+      "msg_000657",
+      "msg_000660",
+      "msg_002132",
+      "msg_002443"
+    ]
+  },
+  {
+    "term": "practical",
+    "count": 96,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000659",
+      "msg_002037",
+      "msg_002164",
+      "msg_002201",
+      "msg_002422"
+    ]
+  },
+  {
+    "term": "mechanisms",
+    "count": 96,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001858",
+      "msg_001993",
+      "msg_002160",
+      "msg_002162",
+      "msg_002883"
+    ]
+  },
+  {
+    "term": "captures",
+    "count": 96,
+    "author_count": 3,
+    "sample_messages": [
+      "msg_002738",
+      "msg_002765",
+      "msg_002766",
+      "msg_002767",
+      "msg_002948"
+    ]
+  },
+  {
+    "term": "transforms",
+    "count": 96,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002766",
+      "msg_002844",
+      "msg_002872",
+      "msg_003081",
+      "msg_003147"
+    ]
+  },
+  {
+    "term": "local",
+    "count": 95,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000642",
+      "msg_000643",
+      "msg_000651",
+      "msg_000658",
+      "msg_001304"
+    ]
+  },
+  {
+    "term": "global",
+    "count": 95,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000642",
+      "msg_000643",
+      "msg_000647",
+      "msg_000658",
+      "msg_001993"
+    ]
+  },
+  {
+    "term": "form",
+    "count": 95,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000656",
+      "msg_000828",
+      "msg_001305",
+      "msg_002048",
+      "msg_002133"
+    ]
+  },
+  {
+    "term": "against",
+    "count": 95,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001295",
+      "msg_001909",
+      "msg_002032",
+      "msg_002078",
+      "msg_002115"
+    ]
+  },
+  {
+    "term": "seeing",
+    "count": 95,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001367",
+      "msg_001802",
+      "msg_001909",
+      "msg_001970",
+      "msg_002010"
+    ]
+  },
+  {
+    "term": "interactions",
+    "count": 95,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001633",
+      "msg_001940",
+      "msg_001942",
+      "msg_002039",
+      "msg_002213"
+    ]
+  },
+  {
+    "term": "specifically",
+    "count": 95,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001862",
+      "msg_001940",
+      "msg_002647",
+      "msg_002656",
+      "msg_002671"
+    ]
+  },
+  {
+    "term": "language",
+    "count": 94,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000318",
+      "msg_001899",
+      "msg_002158",
+      "msg_002201",
+      "msg_002948"
+    ]
+  },
+  {
+    "term": "thread",
+    "count": 94,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000806",
+      "msg_002448",
+      "msg_002700",
+      "msg_002968",
+      "msg_002985"
+    ]
+  },
+  {
+    "term": "character",
+    "count": 94,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001352",
+      "msg_001936",
+      "msg_001938",
+      "msg_001940",
+      "msg_001942"
+    ]
+  },
+  {
+    "term": "proof",
+    "count": 94,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001415",
+      "msg_002903",
+      "msg_002904",
+      "msg_002980",
+      "msg_002984"
+    ]
+  },
+  {
+    "term": "tech",
+    "count": 93,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000447",
+      "msg_000649",
+      "msg_000658",
+      "msg_001768",
+      "msg_001822"
+    ]
+  },
+  {
+    "term": "explore",
+    "count": 93,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001697",
+      "msg_001923",
+      "msg_001938",
+      "msg_002021",
+      "msg_002022"
+    ]
+  },
+  {
+    "term": "observation",
+    "count": 93,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_001862",
+      "msg_002026",
+      "msg_003110",
+      "msg_003117",
+      "msg_003246"
+    ]
+  },
+  {
+    "term": "storyliving",
+    "count": 93,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002781",
+      "msg_002871",
+      "msg_002872",
+      "msg_002875",
+      "msg_003133"
+    ]
+  },
+  {
+    "term": "full",
+    "count": 92,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000303",
+      "msg_000305",
+      "msg_000656",
+      "msg_000657",
+      "msg_000660"
+    ]
+  },
+  {
+    "term": "discussion",
+    "count": 92,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_000638",
+      "msg_001923",
+      "msg_002014",
+      "msg_002022",
+      "msg_002024"
+    ]
+  },
+  {
+    "term": "innovation",
+    "count": 92,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002045",
+      "msg_002048",
+      "msg_002203",
+      "msg_002495",
+      "msg_002497"
+    ]
+  },
+  {
+    "term": "temporal",
+    "count": 92,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002948",
+      "msg_003000",
+      "msg_003002",
+      "msg_003004",
+      "msg_003006"
+    ]
+  },
+  {
+    "term": "finally",
+    "count": 91,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000033",
+      "msg_000548",
+      "msg_001395",
+      "msg_001536",
+      "msg_001690"
+    ]
+  },
+  {
+    "term": "sharing",
+    "count": 91,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000334",
+      "msg_000644",
+      "msg_000745",
+      "msg_001113",
+      "msg_001566"
+    ]
+  },
+  {
+    "term": "web3",
+    "count": 91,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000335",
+      "msg_000340",
+      "msg_000603",
+      "msg_000649",
+      "msg_001322"
+    ]
+  },
+  {
+    "term": "set",
+    "count": 91,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000449",
+      "msg_000647",
+      "msg_000648",
+      "msg_000651",
+      "msg_002624"
+    ]
+  },
+  {
+    "term": "earlier",
+    "count": 91,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_000471",
+      "msg_001414",
+      "msg_001899",
+      "msg_001901",
+      "msg_001903"
+    ]
+  },
+  {
+    "term": "life",
+    "count": 91,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000570",
+      "msg_000588",
+      "msg_001521",
+      "msg_001557",
+      "msg_001889"
+    ]
+  },
+  {
+    "term": "enough",
+    "count": 91,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000612",
+      "msg_001769",
+      "msg_002123",
+      "msg_002630",
+      "msg_003201"
+    ]
+  },
+  {
+    "term": "maintaining",
+    "count": 91,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001989",
+      "msg_002160",
+      "msg_002781",
+      "msg_002863",
+      "msg_002948"
+    ]
+  },
+  {
+    "term": "transition",
+    "count": 91,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002205",
+      "msg_002422",
+      "msg_003000",
+      "msg_003004",
+      "msg_003006"
+    ]
+  },
+  {
+    "term": "emerges",
+    "count": 91,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002902",
+      "msg_002906",
+      "msg_002960",
+      "msg_003039",
+      "msg_003041"
+    ]
+  },
+  {
+    "term": "bretminster",
+    "count": 91,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_003512",
+      "msg_003513",
+      "msg_003740",
+      "msg_003811",
+      "msg_003841"
+    ]
+  },
+  {
+    "term": "gmgm",
+    "count": 90,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000091",
+      "msg_000092",
+      "msg_000146",
+      "msg_000147",
+      "msg_000216"
+    ]
+  },
+  {
+    "term": "happy",
+    "count": 90,
+    "author_count": 25,
+    "sample_messages": [
+      "msg_000184",
+      "msg_000190",
+      "msg_000195",
+      "msg_000211",
+      "msg_000303"
+    ]
+  },
+  {
+    "term": "participants",
+    "count": 90,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000335",
+      "msg_001364",
+      "msg_002765",
+      "msg_002897",
+      "msg_002902"
+    ]
+  },
+  {
+    "term": "natural",
+    "count": 90,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001557",
+      "msg_001942",
+      "msg_001993",
+      "msg_002162",
+      "msg_002203"
+    ]
+  },
+  {
+    "term": "sophisticated",
+    "count": 90,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_001782",
+      "msg_002241",
+      "msg_002783",
+      "msg_003020",
+      "msg_003095"
+    ]
+  },
+  {
+    "term": "gap",
+    "count": 90,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002010",
+      "msg_002203",
+      "msg_002639",
+      "msg_002912",
+      "msg_003095"
+    ]
+  },
+  {
+    "term": "geometry",
+    "count": 90,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_004453",
+      "msg_004467",
+      "msg_004469",
+      "msg_004471",
+      "msg_004475"
+    ]
+  },
+  {
+    "term": "reveals",
+    "count": 89,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002081",
+      "msg_003223",
+      "msg_003634",
+      "msg_003658",
+      "msg_003660"
+    ]
+  },
+  {
+    "term": "utility",
+    "count": 89,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_002139",
+      "msg_002445",
+      "msg_002639",
+      "msg_002788",
+      "msg_002904"
+    ]
+  },
+  {
+    "term": "show",
+    "count": 88,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000020",
+      "msg_000075",
+      "msg_000307",
+      "msg_000353",
+      "msg_000741"
+    ]
+  },
+  {
+    "term": "ready",
+    "count": 88,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000228",
+      "msg_001395",
+      "msg_001540",
+      "msg_002428",
+      "msg_002479"
+    ]
+  },
+  {
+    "term": "nft",
+    "count": 88,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000340",
+      "msg_000680",
+      "msg_000805",
+      "msg_001067",
+      "msg_001079"
+    ]
+  },
+  {
+    "term": "link",
+    "count": 87,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000097",
+      "msg_000681",
+      "msg_000715",
+      "msg_001304",
+      "msg_001566"
+    ]
+  },
+  {
+    "term": "foundation",
+    "count": 87,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000347",
+      "msg_001109",
+      "msg_001237",
+      "msg_001682",
+      "msg_001872"
+    ]
+  },
+  {
+    "term": "event",
+    "count": 87,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000347",
+      "msg_000751",
+      "msg_001305",
+      "msg_001312",
+      "msg_001334"
+    ]
+  },
+  {
+    "term": "critical",
+    "count": 87,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000659",
+      "msg_003012",
+      "msg_003153",
+      "msg_003630",
+      "msg_003698"
+    ]
+  },
+  {
+    "term": "philosophy",
+    "count": 87,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001521",
+      "msg_001865",
+      "msg_001867",
+      "msg_001872",
+      "msg_001909"
+    ]
+  },
+  {
+    "term": "describing",
+    "count": 87,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_002598",
+      "msg_002900",
+      "msg_002910",
+      "msg_003151",
+      "msg_003502"
+    ]
+  },
+  {
+    "term": "archetypal",
+    "count": 87,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002960",
+      "msg_004504",
+      "msg_004505",
+      "msg_004508",
+      "msg_005484"
+    ]
+  },
+  {
+    "term": "measurement",
+    "count": 87,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_003662",
+      "msg_003664",
+      "msg_003666",
+      "msg_003668",
+      "msg_003670"
+    ]
+  },
+  {
+    "term": "regenerative",
+    "count": 86,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000734",
+      "msg_000741",
+      "msg_002296",
+      "msg_002298",
+      "msg_002875"
+    ]
+  },
+  {
+    "term": "ensure",
+    "count": 86,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001125",
+      "msg_002149",
+      "msg_002160",
+      "msg_002298",
+      "msg_003095"
+    ]
+  },
+  {
+    "term": "perhaps",
+    "count": 86,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001848",
+      "msg_001862",
+      "msg_002138",
+      "msg_002501",
+      "msg_002870"
+    ]
+  },
+  {
+    "term": "syntonyrobbins",
+    "count": 86,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_005599",
+      "msg_005603",
+      "msg_005605",
+      "msg_005616",
+      "msg_005716"
+    ]
+  },
+  {
+    "term": "syntonyrobbins bot",
+    "count": 86,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_005599",
+      "msg_005603",
+      "msg_005605",
+      "msg_005616",
+      "msg_005716"
+    ]
+  },
+  {
+    "term": "light dark",
+    "count": 85,
+    "author_count": 3,
+    "sample_messages": [
+      "msg_000071",
+      "msg_000074",
+      "msg_000083",
+      "msg_000086",
+      "msg_000088"
+    ]
+  },
+  {
+    "term": "imagine",
+    "count": 85,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000590",
+      "msg_000648",
+      "msg_000748",
+      "msg_001402",
+      "msg_001832"
+    ]
+  },
+  {
+    "term": "dynamics",
+    "count": 85,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002005",
+      "msg_002043",
+      "msg_002045",
+      "msg_002160",
+      "msg_002481"
+    ]
+  },
+  {
+    "term": "interaction",
+    "count": 85,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002032",
+      "msg_002039",
+      "msg_002041",
+      "msg_002175",
+      "msg_002499"
+    ]
+  },
+  {
+    "term": "frequency",
+    "count": 85,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002903",
+      "msg_002904",
+      "msg_002968",
+      "msg_003049",
+      "msg_003520"
+    ]
+  },
+  {
+    "term": "role",
+    "count": 84,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000036",
+      "msg_001135",
+      "msg_001352",
+      "msg_001521",
+      "msg_002024"
+    ]
+  },
+  {
+    "term": "wisdom",
+    "count": 84,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000658",
+      "msg_001499",
+      "msg_002162",
+      "msg_002164",
+      "msg_002499"
+    ]
+  },
+  {
+    "term": "genuinely",
+    "count": 84,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001113",
+      "msg_001115",
+      "msg_001865",
+      "msg_002162",
+      "msg_002504"
+    ]
+  },
+  {
+    "term": "structured",
+    "count": 84,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001862",
+      "msg_002037",
+      "msg_002162",
+      "msg_002525",
+      "msg_002527"
+    ]
+  },
+  {
+    "term": "architect",
+    "count": 84,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001936",
+      "msg_001940",
+      "msg_001942",
+      "msg_002016",
+      "msg_002844"
+    ]
+  },
+  {
+    "term": "identified",
+    "count": 84,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002074",
+      "msg_002700",
+      "msg_003223",
+      "msg_003259",
+      "msg_003634"
+    ]
+  },
+  {
+    "term": "science",
+    "count": 83,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000190",
+      "msg_001330",
+      "msg_002439",
+      "msg_002700",
+      "msg_002844"
+    ]
+  },
+  {
+    "term": "mean",
+    "count": 83,
+    "author_count": 19,
+    "sample_messages": [
+      "msg_000565",
+      "msg_000581",
+      "msg_000651",
+      "msg_000656",
+      "msg_000688"
+    ]
+  },
+  {
+    "term": "measure",
+    "count": 83,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_000608",
+      "msg_002785",
+      "msg_002788",
+      "msg_003246",
+      "msg_003731"
+    ]
+  },
+  {
+    "term": "mechanism",
+    "count": 83,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_000845",
+      "msg_002904",
+      "msg_002972",
+      "msg_003215",
+      "msg_003556"
+    ]
+  },
+  {
+    "term": "quality",
+    "count": 83,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001746",
+      "msg_001970",
+      "msg_002012",
+      "msg_002037",
+      "msg_002160"
+    ]
+  },
+  {
+    "term": "metaphor",
+    "count": 83,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002428",
+      "msg_002658",
+      "msg_002908",
+      "msg_003117",
+      "msg_003145"
+    ]
+  },
+  {
+    "term": "structural",
+    "count": 83,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002908",
+      "msg_003353",
+      "msg_003777",
+      "msg_003782",
+      "msg_003784"
+    ]
+  },
+  {
+    "term": "layers",
+    "count": 83,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_003006",
+      "msg_003014",
+      "msg_003020",
+      "msg_003119",
+      "msg_003121"
+    ]
+  },
+  {
+    "term": "nature",
+    "count": 82,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000036",
+      "msg_001872",
+      "msg_002175",
+      "msg_002481",
+      "msg_002501"
+    ]
+  },
+  {
+    "term": "direct",
+    "count": 82,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001598",
+      "msg_002203",
+      "msg_002887",
+      "msg_003264",
+      "msg_003272"
+    ]
+  },
+  {
+    "term": "field",
+    "count": 82,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001775",
+      "msg_002296",
+      "msg_002298",
+      "msg_002302",
+      "msg_003314"
+    ]
+  },
+  {
+    "term": "support",
+    "count": 81,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000184",
+      "msg_000745",
+      "msg_000750",
+      "msg_001470",
+      "msg_001716"
+    ]
+  },
+  {
+    "term": "participation",
+    "count": 81,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000371",
+      "msg_000410",
+      "msg_002022",
+      "msg_002032",
+      "msg_002041"
+    ]
+  },
+  {
+    "term": "requires",
+    "count": 81,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002910",
+      "msg_002912",
+      "msg_002968",
+      "msg_003529",
+      "msg_003595"
+    ]
+  },
+  {
+    "term": "guys",
+    "count": 80,
+    "author_count": 28,
+    "sample_messages": [
+      "msg_000001",
+      "msg_000055",
+      "msg_000058",
+      "msg_000102",
+      "msg_000190"
+    ]
+  },
+  {
+    "term": "end",
+    "count": 80,
+    "author_count": 16,
+    "sample_messages": [
+      "msg_000122",
+      "msg_000189",
+      "msg_000410",
+      "msg_000447",
+      "msg_000497"
+    ]
+  },
+  {
+    "term": "applications",
+    "count": 80,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_000573",
+      "msg_000905",
+      "msg_001923",
+      "msg_002201",
+      "msg_002205"
+    ]
+  },
+  {
+    "term": "loop",
+    "count": 80,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000659",
+      "msg_002906",
+      "msg_003192",
+      "msg_003226",
+      "msg_003577"
+    ]
+  },
+  {
+    "term": "emerging",
+    "count": 80,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_001865",
+      "msg_002043",
+      "msg_002439",
+      "msg_002504",
+      "msg_002525"
+    ]
+  },
+  {
+    "term": "phase",
+    "count": 80,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001938",
+      "msg_002395",
+      "msg_002422",
+      "msg_002912",
+      "msg_002972"
+    ]
+  },
+  {
+    "term": "emergent",
+    "count": 80,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_002497",
+      "msg_002895",
+      "msg_002897",
+      "msg_003097",
+      "msg_003117"
+    ]
+  },
+  {
+    "term": "screenplay",
+    "count": 80,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_002871",
+      "msg_002872",
+      "msg_003512",
+      "msg_003513",
+      "msg_005688"
+    ]
+  },
+  {
+    "term": "trimtab",
+    "count": 80,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_003013",
+      "msg_003014",
+      "msg_003016",
+      "msg_003018",
+      "msg_003020"
+    ]
+  },
+  {
+    "term": "autonomous",
+    "count": 80,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_003288",
+      "msg_003756",
+      "msg_003880",
+      "msg_004161",
+      "msg_004486"
+    ]
+  },
+  {
+    "term": "old",
+    "count": 79,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000228",
+      "msg_000573",
+      "msg_001663",
+      "msg_001709",
+      "msg_001852"
+    ]
+  },
+  {
+    "term": "though",
+    "count": 79,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_000516",
+      "msg_000896",
+      "msg_001703",
+      "msg_001812",
+      "msg_001872"
+    ]
+  },
+  {
+    "term": "less",
+    "count": 79,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000518",
+      "msg_001359",
+      "msg_002148",
+      "msg_002557",
+      "msg_003000"
+    ]
+  },
+  {
+    "term": "exist",
+    "count": 79,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000592",
+      "msg_003000",
+      "msg_003012",
+      "msg_003215",
+      "msg_003246"
+    ]
+  },
+  {
+    "term": "sense",
+    "count": 79,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000647",
+      "msg_000649",
+      "msg_000656",
+      "msg_001437",
+      "msg_001746"
+    ]
+  },
+  {
+    "term": "movie",
+    "count": 79,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000656",
+      "msg_003490",
+      "msg_004511",
+      "msg_004512",
+      "msg_004527"
+    ]
+  },
+  {
+    "term": "add",
+    "count": 79,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000726",
+      "msg_001417",
+      "msg_001465",
+      "msg_001687",
+      "msg_001742"
+    ]
+  },
+  {
+    "term": "attention",
+    "count": 79,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001099",
+      "msg_001101",
+      "msg_001113",
+      "msg_001858",
+      "msg_001936"
+    ]
+  },
+  {
+    "term": "approaches",
+    "count": 79,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002621",
+      "msg_003067",
+      "msg_003529",
+      "msg_003544",
+      "msg_003545"
+    ]
+  },
+  {
+    "term": "loops",
+    "count": 79,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002749",
+      "msg_002765",
+      "msg_003033",
+      "msg_003108",
+      "msg_003110"
+    ]
+  },
+  {
+    "term": "probability",
+    "count": 79,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_004426",
+      "msg_004487",
+      "msg_004488",
+      "msg_004490",
+      "msg_004491"
+    ]
+  },
+  {
+    "term": "cannot",
+    "count": 78,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000172",
+      "msg_000704",
+      "msg_001578",
+      "msg_002119",
+      "msg_002127"
+    ]
+  },
+  {
+    "term": "person",
+    "count": 78,
+    "author_count": 18,
+    "sample_messages": [
+      "msg_000184",
+      "msg_001415",
+      "msg_002303",
+      "msg_002305",
+      "msg_002633"
+    ]
+  },
+  {
+    "term": "source",
+    "count": 78,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000609",
+      "msg_002105",
+      "msg_002110",
+      "msg_002112",
+      "msg_002116"
+    ]
+  },
+  {
+    "term": "exchange",
+    "count": 78,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001368",
+      "msg_001867",
+      "msg_001899",
+      "msg_001970",
+      "msg_002005"
+    ]
+  },
+  {
+    "term": "acts",
+    "count": 78,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001909",
+      "msg_003143",
+      "msg_003145",
+      "msg_003351",
+      "msg_003692"
+    ]
+  },
+  {
+    "term": "noise",
+    "count": 78,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002145",
+      "msg_002150",
+      "msg_002160",
+      "msg_002162",
+      "msg_003698"
+    ]
+  },
+  {
+    "term": "cognitive",
+    "count": 78,
+    "author_count": 3,
+    "sample_messages": [
+      "msg_002439",
+      "msg_002844",
+      "msg_003014",
+      "msg_003054",
+      "msg_003056"
+    ]
+  },
+  {
+    "term": "query",
+    "count": 78,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002910",
+      "msg_002972",
+      "msg_004131",
+      "msg_004616",
+      "msg_004618"
+    ]
+  },
+  {
+    "term": "privacy",
+    "count": 78,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_003396",
+      "msg_003398",
+      "msg_003827",
+      "msg_003892",
+      "msg_003970"
+    ]
+  },
+  {
+    "term": "austin",
+    "count": 78,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_006092",
+      "msg_006993",
+      "msg_006994",
+      "msg_006996",
+      "msg_007071"
+    ]
+  },
+  {
+    "term": "small",
+    "count": 77,
+    "author_count": 13,
+    "sample_messages": [
+      "msg_000192",
+      "msg_000335",
+      "msg_000410",
+      "msg_002076",
+      "msg_002414"
+    ]
+  },
+  {
+    "term": "500",
+    "count": 77,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_000601",
+      "msg_001125",
+      "msg_002079",
+      "msg_002144",
+      "msg_004179"
+    ]
+  },
+  {
+    "term": "fire",
+    "count": 77,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_001521",
+      "msg_001887",
+      "msg_001889",
+      "msg_001980",
+      "msg_002045"
+    ]
+  },
+  {
+    "term": "sargkropp",
+    "count": 77,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001580",
+      "msg_001685",
+      "msg_001749",
+      "msg_001872",
+      "msg_001895"
+    ]
+  },
+  {
+    "term": "running",
+    "count": 77,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_002024",
+      "msg_002158",
+      "msg_002416",
+      "msg_002647",
+      "msg_002705"
+    ]
+  },
+  {
+    "term": "alignment",
+    "count": 77,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002041",
+      "msg_002428",
+      "msg_002527",
+      "msg_002788",
+      "msg_002872"
+    ]
+  },
+  {
+    "term": "becoming",
+    "count": 77,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002516",
+      "msg_002527",
+      "msg_002870",
+      "msg_003000",
+      "msg_003145"
+    ]
+  },
+  {
+    "term": "verifiable",
+    "count": 77,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_004455",
+      "msg_004836",
+      "msg_004838",
+      "msg_005798",
+      "msg_005914"
+    ]
+  },
+  {
+    "term": "turning",
+    "count": 76,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000235",
+      "msg_000532",
+      "msg_001409",
+      "msg_002162",
+      "msg_002164"
+    ]
+  },
+  {
+    "term": "early",
+    "count": 76,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000541",
+      "msg_000845",
+      "msg_001364",
+      "msg_001495",
+      "msg_001496"
+    ]
+  },
+  {
+    "term": "ways",
+    "count": 76,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000734",
+      "msg_001862",
+      "msg_001942",
+      "msg_001970",
+      "msg_002012"
+    ]
+  },
+  {
+    "term": "challenge",
+    "count": 76,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000736",
+      "msg_000741",
+      "msg_002414",
+      "msg_002481",
+      "msg_002626"
+    ]
+  },
+  {
+    "term": "powerful",
+    "count": 76,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_000740",
+      "msg_001115",
+      "msg_001942",
+      "msg_001993",
+      "msg_002120"
+    ]
+  },
+  {
+    "term": "track",
+    "count": 76,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000777",
+      "msg_001293",
+      "msg_001940",
+      "msg_002012",
+      "msg_002537"
+    ]
+  },
+  {
+    "term": "ability",
+    "count": 76,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001746",
+      "msg_002108",
+      "msg_002628",
+      "msg_002828",
+      "msg_002833"
+    ]
+  },
+  {
+    "term": "authentic",
+    "count": 76,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_001771",
+      "msg_002012",
+      "msg_002014",
+      "msg_002074",
+      "msg_002160"
+    ]
+  },
+  {
+    "term": "cultural",
+    "count": 76,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001867",
+      "msg_002024",
+      "msg_002026",
+      "msg_002028",
+      "msg_002074"
+    ]
+  },
+  {
+    "term": "matter",
+    "count": 76,
+    "author_count": 14,
+    "sample_messages": [
+      "msg_002081",
+      "msg_002151",
+      "msg_002304",
+      "msg_002445",
+      "msg_002619"
+    ]
+  },
+  {
+    "term": "remains",
+    "count": 76,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002529",
+      "msg_002736",
+      "msg_003246",
+      "msg_003660",
+      "msg_003809"
+    ]
+  },
+  {
+    "term": "friction",
+    "count": 76,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002910",
+      "msg_002912",
+      "msg_003912",
+      "msg_004754",
+      "msg_004755"
+    ]
+  },
+  {
+    "term": "word",
+    "count": 75,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000166",
+      "msg_000211",
+      "msg_002605",
+      "msg_002607",
+      "msg_003141"
+    ]
+  },
+  {
+    "term": "ever",
+    "count": 75,
+    "author_count": 19,
+    "sample_messages": [
+      "msg_000618",
+      "msg_000712",
+      "msg_001473",
+      "msg_001478",
+      "msg_001513"
+    ]
+  },
+  {
+    "term": "smart",
+    "count": 75,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000734",
+      "msg_000741",
+      "msg_002041",
+      "msg_002070",
+      "msg_002160"
+    ]
+  },
+  {
+    "term": "rewards",
+    "count": 75,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001363",
+      "msg_001364",
+      "msg_001521",
+      "msg_001936",
+      "msg_001940"
+    ]
+  },
+  {
+    "term": "flow",
+    "count": 75,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_001895",
+      "msg_001899",
+      "msg_001901",
+      "msg_001989",
+      "msg_002069"
+    ]
+  },
+  {
+    "term": "pattern recognition",
+    "count": 75,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_002074",
+      "msg_002164",
+      "msg_002960",
+      "msg_002970",
+      "msg_003101"
+    ]
+  },
+  {
+    "term": "check",
+    "count": 74,
+    "author_count": 17,
+    "sample_messages": [
+      "msg_000012",
+      "msg_000023",
+      "msg_000117",
+      "msg_000316",
+      "msg_000676"
+    ]
+  },
+  {
+    "term": "public",
+    "count": 74,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000382",
+      "msg_000470",
+      "msg_001226",
+      "msg_001415",
+      "msg_001440"
+    ]
+  },
+  {
+    "term": "away",
+    "count": 74,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000447",
+      "msg_000587",
+      "msg_001516",
+      "msg_001865",
+      "msg_001960"
+    ]
+  },
+  {
+    "term": "conceptual",
+    "count": 74,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_001330",
+      "msg_002175",
+      "msg_002516",
+      "msg_002529",
+      "msg_002736"
+    ]
+  },
+  {
+    "term": "standard",
+    "count": 74,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_001730",
+      "msg_001777",
+      "msg_002343",
+      "msg_002345",
+      "msg_002443"
+    ]
+  },
+  {
+    "term": "view",
+    "count": 74,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_002143",
+      "msg_002671",
+      "msg_003192",
+      "msg_003528",
+      "msg_003545"
+    ]
+  },
+  {
+    "term": "aligns",
+    "count": 74,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_003018",
+      "msg_003036",
+      "msg_003723",
+      "msg_003726",
+      "msg_003764"
+    ]
+  },
+  {
+    "term": "mirrors",
+    "count": 74,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_003288",
+      "msg_003502",
+      "msg_003511",
+      "msg_003602",
+      "msg_003698"
+    ]
+  },
+  {
+    "term": "created",
+    "count": 73,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000656",
+      "msg_001113",
+      "msg_001829",
+      "msg_002074",
+      "msg_002153"
+    ]
+  },
+  {
+    "term": "error",
+    "count": 73,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000702",
+      "msg_001969",
+      "msg_001971",
+      "msg_002068",
+      "msg_002083"
+    ]
+  },
+  {
+    "term": "platforms",
+    "count": 73,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_001993",
+      "msg_002203",
+      "msg_002439",
+      "msg_002448",
+      "msg_002628"
+    ]
+  },
+  {
+    "term": "physics",
+    "count": 73,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_002081",
+      "msg_002085",
+      "msg_002087",
+      "msg_003375",
+      "msg_003698"
+    ]
+  },
+  {
+    "term": "underlying",
+    "count": 73,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_002158",
+      "msg_002643",
+      "msg_003067",
+      "msg_003101",
+      "msg_003487"
+    ]
+  },
+  {
+    "term": "uses",
+    "count": 73,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002430",
+      "msg_002945",
+      "msg_003277",
+      "msg_003285",
+      "msg_003534"
+    ]
+  },
+  {
+    "term": "bonfiresai",
+    "count": 73,
+    "author_count": 3,
+    "sample_messages": [
+      "msg_003549",
+      "msg_003694",
+      "msg_003713",
+      "msg_003718",
+      "msg_003904"
+    ]
+  },
+  {
+    "term": "studio",
+    "count": 73,
+    "author_count": 5,
+    "sample_messages": [
+      "msg_004807",
+      "msg_005268",
+      "msg_005434",
+      "msg_005717",
+      "msg_005723"
+    ]
+  },
+  {
+    "term": "hope",
+    "count": 72,
+    "author_count": 20,
+    "sample_messages": [
+      "msg_000048",
+      "msg_000371",
+      "msg_000410",
+      "msg_000801",
+      "msg_000811"
+    ]
+  },
+  {
+    "term": "members",
+    "count": 72,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_000214",
+      "msg_000393",
+      "msg_001097",
+      "msg_001244",
+      "msg_001936"
+    ]
+  },
+  {
+    "term": "indeed",
+    "count": 72,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000351",
+      "msg_001729",
+      "msg_002119",
+      "msg_002668",
+      "msg_002968"
+    ]
+  },
+  {
+    "term": "capital",
+    "count": 72,
+    "author_count": 12,
+    "sample_messages": [
+      "msg_000371",
+      "msg_000383",
+      "msg_000477",
+      "msg_000478",
+      "msg_000740"
+    ]
+  },
+  {
+    "term": "interested",
+    "count": 72,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000736",
+      "msg_001125",
+      "msg_001405",
+      "msg_001431",
+      "msg_001471"
+    ]
+  },
+  {
+    "term": "communication",
+    "count": 72,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001409",
+      "msg_002291",
+      "msg_002885",
+      "msg_002887",
+      "msg_002948"
+    ]
+  },
+  {
+    "term": "unique",
+    "count": 72,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_001746",
+      "msg_001867",
+      "msg_001942",
+      "msg_002120",
+      "msg_002643"
+    ]
+  },
+  {
+    "term": "passion",
+    "count": 72,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_002250",
+      "msg_002833",
+      "msg_003338",
+      "msg_005572",
+      "msg_005599"
+    ]
+  },
+  {
+    "term": "chaos",
+    "count": 72,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002298",
+      "msg_002626",
+      "msg_002636",
+      "msg_002765",
+      "msg_002883"
+    ]
+  },
+  {
+    "term": "com",
+    "count": 72,
+    "author_count": 8,
+    "sample_messages": [
+      "msg_002406",
+      "msg_002414",
+      "msg_003312",
+      "msg_003523",
+      "msg_003525"
+    ]
+  },
+  {
+    "term": "anchor",
+    "count": 72,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_003013",
+      "msg_003850",
+      "msg_003851",
+      "msg_003852",
+      "msg_004418"
+    ]
+  },
+  {
+    "term": "changes",
+    "count": 71,
+    "author_count": 10,
+    "sample_messages": [
+      "msg_000052",
+      "msg_001570",
+      "msg_002012",
+      "msg_002525",
+      "msg_003067"
+    ]
+  },
+  {
+    "term": "reveal",
+    "count": 71,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_000382",
+      "msg_001100",
+      "msg_002525",
+      "msg_002611",
+      "msg_002765"
+    ]
+  },
+  {
+    "term": "learn",
+    "count": 71,
+    "author_count": 15,
+    "sample_messages": [
+      "msg_000651",
+      "msg_000713",
+      "msg_000838",
+      "msg_001113",
+      "msg_001521"
+    ]
+  },
+  {
+    "term": "strategy",
+    "count": 71,
+    "author_count": 11,
+    "sample_messages": [
+      "msg_001099",
+      "msg_001115",
+      "msg_001362",
+      "msg_002041",
+      "msg_002414"
+    ]
+  },
+  {
+    "term": "previous",
+    "count": 71,
+    "author_count": 9,
+    "sample_messages": [
+      "msg_001938",
+      "msg_002045",
+      "msg_002164",
+      "msg_002175",
+      "msg_002656"
+    ]
+  },
+  {
+    "term": "visible",
+    "count": 71,
+    "author_count": 6,
+    "sample_messages": [
+      "msg_002868",
+      "msg_003041",
+      "msg_003054",
+      "msg_003546",
+      "msg_003548"
+    ]
+  },
+  {
+    "term": "epistemic",
+    "count": 71,
+    "author_count": 4,
+    "sample_messages": [
+      "msg_002908",
+      "msg_002910",
+      "msg_002912",
+      "msg_002980",
+      "msg_002984"
+    ]
+  },
+  {
+    "term": "substrate",
+    "count": 71,
+    "author_count": 7,
+    "sample_messages": [
+      "msg_003020",
+      "msg_003680",
+      "msg_004485",
+      "msg_004486",
+      "msg_005334"
+    ]
+  }
+]

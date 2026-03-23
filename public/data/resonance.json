@@ -1,0 +1,2949 @@
+{
+  "clusters": {
+    "cluster_0": {
+      "pattern_counts": {
+        "emergence": 63,
+        "divergence": 39,
+        "convergence": 0,
+        "reframe": 13,
+        "insight": 0,
+        "amplification": 38,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 38,
+        "generative": 11,
+        "orienting": 87,
+        "reflective": 7
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "emerging",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "generative"
+        ]
+      }
+    },
+    "cluster_1": {
+      "pattern_counts": {
+        "emergence": 35,
+        "divergence": 15,
+        "convergence": 0,
+        "reframe": 11,
+        "insight": 0,
+        "amplification": 4,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 2,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 34,
+        "generative": 7,
+        "orienting": 32,
+        "reflective": 4
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "emerging",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "cluster_2": {
+      "pattern_counts": {
+        "emergence": 8,
+        "divergence": 4,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 3,
+        "generative": 0,
+        "orienting": 24,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_3": {
+      "pattern_counts": {
+        "emergence": 29,
+        "divergence": 14,
+        "convergence": 0,
+        "reframe": 6,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 2,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 27,
+        "generative": 4,
+        "orienting": 21,
+        "reflective": 5
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_4": {
+      "pattern_counts": {
+        "emergence": 9,
+        "divergence": 3,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 3,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 1,
+        "generative": 1,
+        "orienting": 15,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "generative"
+        ]
+      }
+    },
+    "cluster_5": {
+      "pattern_counts": {
+        "emergence": 8,
+        "divergence": 3,
+        "convergence": 0,
+        "reframe": 2,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 2,
+        "generative": 1,
+        "orienting": 8,
+        "reflective": 2
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_6": {
+      "pattern_counts": {
+        "emergence": 21,
+        "divergence": 6,
+        "convergence": 0,
+        "reframe": 4,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 18,
+        "generative": 3,
+        "orienting": 13,
+        "reflective": 3
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "cluster_7": {
+      "pattern_counts": {
+        "emergence": 6,
+        "divergence": 3,
+        "convergence": 0,
+        "reframe": 2,
+        "insight": 0,
+        "amplification": 1,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 5,
+        "generative": 0,
+        "orienting": 4,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "cluster_8": {
+      "pattern_counts": {
+        "emergence": 6,
+        "divergence": 3,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 1,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 2,
+        "generative": 3,
+        "orienting": 6,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "orienting",
+          "generative",
+          "analytical"
+        ]
+      }
+    },
+    "cluster_9": {
+      "pattern_counts": {
+        "emergence": 11,
+        "divergence": 3,
+        "convergence": 0,
+        "reframe": 2,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 11,
+        "generative": 0,
+        "orienting": 5,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_10": {
+      "pattern_counts": {
+        "emergence": 11,
+        "divergence": 3,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 3,
+        "generative": 1,
+        "orienting": 7,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "generative"
+        ]
+      }
+    },
+    "cluster_11": {
+      "pattern_counts": {
+        "emergence": 27,
+        "divergence": 235,
+        "convergence": 0,
+        "reframe": 94,
+        "insight": 0,
+        "amplification": 5,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 6,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 403,
+        "generative": 7,
+        "orienting": 204,
+        "reflective": 17
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "emerging",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_12": {
+      "pattern_counts": {
+        "emergence": 26,
+        "divergence": 231,
+        "convergence": 0,
+        "reframe": 92,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 9,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 379,
+        "generative": 6,
+        "orienting": 151,
+        "reflective": 16
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_13": {
+      "pattern_counts": {
+        "emergence": 16,
+        "divergence": 149,
+        "convergence": 0,
+        "reframe": 67,
+        "insight": 0,
+        "amplification": 5,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 12,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 231,
+        "generative": 8,
+        "orienting": 142,
+        "reflective": 14
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "emerging",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_14": {
+      "pattern_counts": {
+        "emergence": 7,
+        "divergence": 134,
+        "convergence": 0,
+        "reframe": 52,
+        "insight": 0,
+        "amplification": 5,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 250,
+        "generative": 4,
+        "orienting": 143,
+        "reflective": 5
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "emerging",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_15": {
+      "pattern_counts": {
+        "emergence": 14,
+        "divergence": 58,
+        "convergence": 0,
+        "reframe": 22,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 7,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 95,
+        "generative": 2,
+        "orienting": 29,
+        "reflective": 6
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_16": {
+      "pattern_counts": {
+        "emergence": 11,
+        "divergence": 74,
+        "convergence": 0,
+        "reframe": 35,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 3,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 130,
+        "generative": 4,
+        "orienting": 48,
+        "reflective": 4
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "cluster_17": {
+      "pattern_counts": {
+        "emergence": 2,
+        "divergence": 27,
+        "convergence": 0,
+        "reframe": 11,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 41,
+        "generative": 1,
+        "orienting": 39,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "cluster_18": {
+      "pattern_counts": {
+        "emergence": 12,
+        "divergence": 31,
+        "convergence": 0,
+        "reframe": 20,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 55,
+        "generative": 4,
+        "orienting": 27,
+        "reflective": 3
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "cluster_19": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 22,
+        "convergence": 0,
+        "reframe": 8,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 36,
+        "generative": 2,
+        "orienting": 36,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "cluster_20": {
+      "pattern_counts": {
+        "emergence": 2,
+        "divergence": 20,
+        "convergence": 0,
+        "reframe": 10,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 36,
+        "generative": 1,
+        "orienting": 26,
+        "reflective": 3
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_21": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 24,
+        "convergence": 0,
+        "reframe": 8,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 2,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 28,
+        "generative": 2,
+        "orienting": 11,
+        "reflective": 5
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_22": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 13,
+        "convergence": 0,
+        "reframe": 8,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 23,
+        "generative": 3,
+        "orienting": 13,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "cluster_23": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 6,
+        "convergence": 0,
+        "reframe": 3,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 14,
+        "generative": 0,
+        "orienting": 9,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "cluster_24": {
+      "pattern_counts": {
+        "emergence": 3,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "cluster_25": {
+      "pattern_counts": {
+        "emergence": 4,
+        "divergence": 351,
+        "convergence": 0,
+        "reframe": 51,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 465,
+        "generative": 2,
+        "orienting": 80,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "cluster_26": {
+      "pattern_counts": {
+        "emergence": 4,
+        "divergence": 344,
+        "convergence": 0,
+        "reframe": 50,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 2,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 437,
+        "generative": 2,
+        "orienting": 72,
+        "reflective": 5
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_27": {
+      "pattern_counts": {
+        "emergence": 6,
+        "divergence": 313,
+        "convergence": 0,
+        "reframe": 42,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 3,
+        "challenge": 0,
+        "performative": 1,
+        "analytical": 404,
+        "generative": 1,
+        "orienting": 74,
+        "reflective": 3
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_28": {
+      "pattern_counts": {
+        "emergence": 6,
+        "divergence": 265,
+        "convergence": 0,
+        "reframe": 42,
+        "insight": 0,
+        "amplification": 1,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 2,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 349,
+        "generative": 2,
+        "orienting": 61,
+        "reflective": 4
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_29": {
+      "pattern_counts": {
+        "emergence": 4,
+        "divergence": 270,
+        "convergence": 0,
+        "reframe": 34,
+        "insight": 0,
+        "amplification": 1,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 4,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 324,
+        "generative": 2,
+        "orienting": 60,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_30": {
+      "pattern_counts": {
+        "emergence": 4,
+        "divergence": 180,
+        "convergence": 0,
+        "reframe": 21,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 7,
+        "challenge": 0,
+        "performative": 1,
+        "analytical": 211,
+        "generative": 2,
+        "orienting": 47,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_31": {
+      "pattern_counts": {
+        "emergence": 7,
+        "divergence": 166,
+        "convergence": 0,
+        "reframe": 35,
+        "insight": 0,
+        "amplification": 3,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 4,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 221,
+        "generative": 3,
+        "orienting": 43,
+        "reflective": 3
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_32": {
+      "pattern_counts": {
+        "emergence": 2,
+        "divergence": 61,
+        "convergence": 0,
+        "reframe": 12,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 78,
+        "generative": 0,
+        "orienting": 16,
+        "reflective": 3
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "cluster_33": {
+      "pattern_counts": {
+        "emergence": 2,
+        "divergence": 134,
+        "convergence": 0,
+        "reframe": 13,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 2,
+        "challenge": 0,
+        "performative": 1,
+        "analytical": 150,
+        "generative": 2,
+        "orienting": 38,
+        "reflective": 2
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "broad",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_34": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 47,
+        "convergence": 0,
+        "reframe": 8,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 2,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 54,
+        "generative": 0,
+        "orienting": 8,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_35": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 14,
+        "convergence": 0,
+        "reframe": 2,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 21,
+        "generative": 0,
+        "orienting": 9,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_36": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 10,
+        "convergence": 0,
+        "reframe": 3,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 15,
+        "generative": 0,
+        "orienting": 11,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "moderate",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "cluster_37": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 17,
+        "convergence": 0,
+        "reframe": 3,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 20,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical"
+        ]
+      }
+    },
+    "cluster_38": {
+      "pattern_counts": {
+        "emergence": 4,
+        "divergence": 12,
+        "convergence": 0,
+        "reframe": 2,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 18,
+        "generative": 0,
+        "orienting": 6,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "cluster_39": {
+      "pattern_counts": {
+        "emergence": 2,
+        "divergence": 10,
+        "convergence": 0,
+        "reframe": 1,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 13,
+        "generative": 0,
+        "orienting": 4,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "philosophical"
+        ]
+      }
+    },
+    "cluster_40": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 10,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 14,
+        "generative": 0,
+        "orienting": 4,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    }
+  },
+  "actors": {
+    "actor_socrat0x": {
+      "pattern_counts": {
+        "emergence": 63,
+        "divergence": 650,
+        "convergence": 0,
+        "reframe": 176,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 20,
+        "challenge": 0,
+        "performative": 1,
+        "analytical": 869,
+        "generative": 26,
+        "orienting": 271,
+        "reflective": 41
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "actor_plat0x_eth__________bonfires_ai": {
+      "pattern_counts": {
+        "emergence": 9,
+        "divergence": 15,
+        "convergence": 0,
+        "reframe": 7,
+        "insight": 0,
+        "amplification": 14,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 33,
+        "generative": 2,
+        "orienting": 90,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "emerging",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "generative"
+        ]
+      }
+    },
+    "actor_joshua___bonfires_ai": {
+      "pattern_counts": {
+        "emergence": 11,
+        "divergence": 13,
+        "convergence": 0,
+        "reframe": 3,
+        "insight": 0,
+        "amplification": 15,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 17,
+        "generative": 3,
+        "orienting": 59,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "emerging",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "generative"
+        ]
+      }
+    },
+    "actor_kropp": {
+      "pattern_counts": {
+        "emergence": 13,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 3,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 1,
+        "orienting": 28,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "actor_egg": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 17,
+        "convergence": 0,
+        "reframe": 6,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 1,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 36,
+        "generative": 0,
+        "orienting": 74,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "philosophical"
+        ]
+      }
+    },
+    "actor_mila_from_the_metaverse": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 3,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 10,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_safeguard": {
+      "pattern_counts": {
+        "emergence": 4,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 1,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 6,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_bret_warshawsky": {
+      "pattern_counts": {
+        "emergence": 6,
+        "divergence": 28,
+        "convergence": 0,
+        "reframe": 5,
+        "insight": 0,
+        "amplification": 1,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 5,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 29,
+        "generative": 2,
+        "orienting": 32,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "philosophical"
+        ]
+      }
+    },
+    "actor_iqra": {
+      "pattern_counts": {
+        "emergence": 5,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 7,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 3,
+        "generative": 0,
+        "orienting": 11,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "partial",
+        "coherence": "emerging",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical"
+        ]
+      }
+    },
+    "actor_pixie": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 3,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 1,
+        "generative": 0,
+        "orienting": 4,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical"
+        ]
+      }
+    },
+    "actor_juan_keymer": {
+      "pattern_counts": {
+        "emergence": 6,
+        "divergence": 5,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 3,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 2,
+        "generative": 0,
+        "orienting": 6,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical"
+        ]
+      }
+    },
+    "actor_syntony_robbins": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 103,
+        "convergence": 0,
+        "reframe": 9,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 125,
+        "generative": 1,
+        "orienting": 16,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting",
+          "generative"
+        ]
+      }
+    },
+    "actor_pablo_cabruca": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 3,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 2,
+        "generative": 0,
+        "orienting": 14,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical"
+        ]
+      }
+    },
+    "actor_tessa_": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": []
+      }
+    },
+    "actor_daniel": {
+      "pattern_counts": {
+        "emergence": 3,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 4,
+        "generative": 0,
+        "orienting": 7,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "medium",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical"
+        ]
+      }
+    },
+    "actor_privacymage": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 3,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 7,
+        "generative": 0,
+        "orienting": 7,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "actor_francesca": {
+      "pattern_counts": {
+        "emergence": 2,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 1,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_cr3myy": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 2,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "reflective"
+        ]
+      }
+    },
+    "actor_phillip_mccombs": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 2,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 1,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "actor_inga": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_ian_tairea": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 2,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_vishnu_vennelakanti": {
+      "pattern_counts": {
+        "emergence": 2,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": []
+      }
+    },
+    "actor___zeev__": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 1,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 2,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_anshuman": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 3,
+        "generative": 0,
+        "orienting": 6,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical",
+          "reflective"
+        ]
+      }
+    },
+    "actor_rose": {
+      "pattern_counts": {
+        "emergence": 6,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 12,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "present",
+        "coherence": "emerging",
+        "participation": "narrow",
+        "archetypal_resonance": []
+      }
+    },
+    "actor_deleted_account": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": []
+      }
+    },
+    "actor_vitali": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 1,
+        "generative": 0,
+        "orienting": 2,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical"
+        ]
+      }
+    },
+    "actor_michael_____": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 6,
+        "convergence": 0,
+        "reframe": 1,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 8,
+        "generative": 0,
+        "orienting": 2,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "actor_fkayy_kaloex": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_steve_phillips___cypherpunk_utopia_residency": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 1,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "actor_pamela_lim_n": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": []
+      }
+    },
+    "actor_sarah_ubong_nkaiso": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": []
+      }
+    },
+    "actor_the_beyondr______": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": []
+      }
+    },
+    "actor_andrew_quigley___alchemy": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 2,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 3,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_origen": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 5,
+        "convergence": 0,
+        "reframe": 1,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 7,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "actor_soulbae__the_first_mage": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 9,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 11,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "actor_kiho___biome": {
+      "pattern_counts": {
+        "emergence": 5,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 1,
+        "generative": 0,
+        "orienting": 2,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "analytical"
+        ]
+      }
+    },
+    "actor_humberto_besso_oberto": {
+      "pattern_counts": {
+        "emergence": 4,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 1,
+        "orienting": 2,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "partial",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "generative",
+          "reflective"
+        ]
+      }
+    },
+    "actor_shadow": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 2,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "actor_gustavo_segovia": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 1,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "actor_o": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_max__suave_": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_leo": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_pepehan": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 1,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 2,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "high",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_vibe": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 3,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor________mrfreeman": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 3,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_kelly_kellz": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 0,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": []
+      }
+    },
+    "actor_devconnect_bonfire": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 1,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 2,
+        "generative": 0,
+        "orienting": 2,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "present",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "analytical",
+          "orienting"
+        ]
+      }
+    },
+    "actor_alex_lion_yes_": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_dawn": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_antonio___x___tolede_____": {
+      "pattern_counts": {
+        "emergence": 1,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 2,
+        "reflective": 1
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting",
+          "reflective"
+        ]
+      }
+    },
+    "actor_chair": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    },
+    "actor_emil": {
+      "pattern_counts": {
+        "emergence": 0,
+        "divergence": 0,
+        "convergence": 0,
+        "reframe": 0,
+        "insight": 0,
+        "amplification": 0,
+        "stabilization": 0,
+        "breakdown": 0
+      },
+      "archetype_counts": {
+        "philosophical": 0,
+        "challenge": 0,
+        "performative": 0,
+        "analytical": 0,
+        "generative": 0,
+        "orienting": 1,
+        "reflective": 0
+      },
+      "derived": {
+        "volatility": "low",
+        "transformation": "absent",
+        "coherence": "absent",
+        "participation": "narrow",
+        "archetypal_resonance": [
+          "orienting"
+        ]
+      }
+    }
+  },
+  "global": {
+    "pattern_counts": {
+      "emergence": 157,
+      "divergence": 869,
+      "convergence": 0,
+      "reframe": 209,
+      "insight": 0,
+      "amplification": 71,
+      "stabilization": 0,
+      "breakdown": 0
+    },
+    "archetype_counts": {
+      "philosophical": 26,
+      "challenge": 0,
+      "performative": 1,
+      "analytical": 1167,
+      "generative": 37,
+      "orienting": 707,
+      "reflective": 47
+    },
+    "derived": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "emerging",
+      "participation": "broad",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "reflective"
+      ]
+    }
+  }
+}

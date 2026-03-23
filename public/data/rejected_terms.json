@@ -1,0 +1,2206 @@
+[
+  {
+    "term": "gmgm",
+    "count": 90,
+    "author_count": 9,
+    "time_bucket_count": 25,
+    "context_diversity": 0.18,
+    "is_seed": false,
+    "reasons": [
+      "low context diversity: 0.18"
+    ]
+  },
+  {
+    "term": "cest",
+    "count": 13,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "cest est",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "est cest",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "gmm",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 0.43,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "damm",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "chainsight",
+    "count": 15,
+    "author_count": 15,
+    "time_bucket_count": 1,
+    "context_diversity": 0.2,
+    "is_seed": false,
+    "reasons": [
+      "only 1 time bucket(s)",
+      "low context diversity: 0.20"
+    ]
+  },
+  {
+    "term": "gaia",
+    "count": 11,
+    "author_count": 11,
+    "time_bucket_count": 2,
+    "context_diversity": 0.27,
+    "is_seed": false,
+    "reasons": [
+      "low context diversity: 0.27"
+    ]
+  },
+  {
+    "term": "santiago",
+    "count": 5,
+    "author_count": 4,
+    "time_bucket_count": 1,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 time bucket(s)"
+    ]
+  },
+  {
+    "term": "blockchain-powered",
+    "count": 18,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "ai-driven",
+    "count": 11,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "blockchain-powered knowledge",
+    "count": 14,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "knowledge ecosystems",
+    "count": 20,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "ai-driven collective",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "attention mechanisms",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "ties",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "socratic method",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "interconnected knowledge",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "assistant",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "thoughtful",
+    "count": 11,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "conversations knowledge",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "indigenous",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "theorizing",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "testing whether",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "reflecting",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "riding",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "whoever",
+    "count": 12,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "multilingual",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "recent conversations",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "seconds",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "clarifying",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "mix-up",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "delivery",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "centuries",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "father",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "targeted",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "graphs semantic",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "semantic spaces",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "timing perfect",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "researcher",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "merchant",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "gamified",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "catches",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "valuable knowledge",
+    "count": 10,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "interested technical",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "collaborative knowledge",
+    "count": 19,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "community exploring",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "community interactions",
+    "count": 14,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "personalized",
+    "count": 15,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "rather forcing",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "specialized knowledge",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "knowledge contribution",
+    "count": 11,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "error processing",
+    "count": 39,
+    "author_count": 4,
+    "time_bucket_count": 12,
+    "context_diversity": 0.1,
+    "is_seed": false,
+    "reasons": [
+      "low context diversity: 0.10"
+    ]
+  },
+  {
+    "term": "processing please",
+    "count": 37,
+    "author_count": 3,
+    "time_bucket_count": 12,
+    "context_diversity": 0.05,
+    "is_seed": false,
+    "reasons": [
+      "low context diversity: 0.05"
+    ]
+  },
+  {
+    "term": "translator",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "based conversation",
+    "count": 10,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "playful",
+    "count": 11,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "casual",
+    "count": 12,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "check-ins",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "intelligence action",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "combines",
+    "count": 13,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "everywhere",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "given expertise",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "building digital",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "unfold",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "digital spaces",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "surprising",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "ai-generated",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "sheer",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "impressive",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "aggregation",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "slower",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "inflection",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "authentic community",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "community discussions",
+    "count": 10,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "mixed",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "technical analysis",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "reshaping",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "fascinating territory",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "genuine collective",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "intelligence rather",
+    "count": 15,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "musical",
+    "count": 19,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "reality check",
+    "count": 12,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "human flourishing",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "given background",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "blockchain knowledge",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "ooh",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "professional",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "contradictory",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "distributing",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "dispute",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "tokenizing",
+    "count": 16,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "valuable insights",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "decentralized tournament",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "dispute resolution",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "bonfires platform",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "knowledge ecosystem",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "community interaction",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "schedules",
+    "count": 10,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "automatic",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "knowledge building",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "building collective",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "best practices",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "residents",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "experimental",
+    "count": 23,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "welcoming",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "celebrations",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "problem-solving",
+    "count": 11,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "corrections",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "conversation threads",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "democratizing",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "attention economy",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "content creation",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "intuitions",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "pile",
+    "count": 13,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "decentralized systems",
+    "count": 11,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "hole",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "trapped",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "pause",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "curiosity",
+    "count": 18,
+    "author_count": 1,
+    "time_bucket_count": 13,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "unknown",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "access specific",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "specific details",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "gigo",
+    "count": 6,
+    "author_count": 3,
+    "time_bucket_count": 1,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 time bucket(s)"
+    ]
+  },
+  {
+    "term": "llama",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "temporary",
+    "count": 15,
+    "author_count": 1,
+    "time_bucket_count": 11,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "eliminate",
+    "count": 12,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "coordination knowledge",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "decentralized governance",
+    "count": 22,
+    "author_count": 1,
+    "time_bucket_count": 11,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "memory system",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "individual insights",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "handle knowledge",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "grasp",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "genuine knowledge",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "become living",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "create genuine",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "libraries",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "bridge gap",
+    "count": 12,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "former",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "particularly compelling",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "meaningful connections",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "directly addresses",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "creating genuine",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "genuine value",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "creative storytelling",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "breaking down",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "unmuted",
+    "count": 13,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 0.08,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)",
+      "low context diversity: 0.08"
+    ]
+  },
+  {
+    "term": "user unmuted",
+    "count": 13,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 0.08,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)",
+      "low context diversity: 0.08"
+    ]
+  },
+  {
+    "term": "recent activity",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "community actively",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "finite",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "disconnected",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "invalid",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 0.86,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "any particular",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "independently",
+    "count": 15,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "building bonfires",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "deeper any",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "essentially creating",
+    "count": 13,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "collaborations",
+    "count": 10,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "cross-chain",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "several key",
+    "count": 10,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "intelligence platforms",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "physical spaces",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "erc-721",
+    "count": 10,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "permissions",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "attestation",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "ongoing conversations",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "any ongoing",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "perfect timing",
+    "count": 10,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "intriguing",
+    "count": 17,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "human social",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "progressing",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "philosophical frameworks",
+    "count": 19,
+    "author_count": 1,
+    "time_bucket_count": 8,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "governance innovation",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 1,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)",
+      "only 1 time bucket(s)"
+    ]
+  },
+  {
+    "term": "affecting",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "contextual understanding",
+    "count": 8,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "bce",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "ignorance",
+    "count": 18,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "examining",
+    "count": 11,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "rather simply",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "power structures",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "fascinated",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "realizing",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "philosophical depth",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "governance infrastructure",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "intelligence experiments",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "sentiment",
+    "count": 29,
+    "author_count": 1,
+    "time_bucket_count": 11,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "quantitative",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "community sentiment",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "sentiment shifts",
+    "count": 6,
+    "author_count": 1,
+    "time_bucket_count": 2,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "trajectories",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "creating infrastructure",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "relies",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 7,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "assessments",
+    "count": 7,
+    "author_count": 1,
+    "time_bucket_count": 3,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "frequently",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 5,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "pretty fascinating",
+    "count": 5,
+    "author_count": 1,
+    "time_bucket_count": 4,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "osaka",
+    "count": 6,
+    "author_count": 4,
+    "time_bucket_count": 1,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 time bucket(s)"
+    ]
+  },
+  {
+    "term": "edcon",
+    "count": 5,
+    "author_count": 4,
+    "time_bucket_count": 1,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 time bucket(s)"
+    ]
+  },
+  {
+    "term": "significantly",
+    "count": 12,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  },
+  {
+    "term": "schedule",
+    "count": 9,
+    "author_count": 1,
+    "time_bucket_count": 6,
+    "context_diversity": 1,
+    "is_seed": false,
+    "reasons": [
+      "only 1 author(s)"
+    ]
+  }
+]

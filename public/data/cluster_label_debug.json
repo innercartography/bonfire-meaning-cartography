@@ -1,0 +1,432 @@
+[
+  {
+    "id": "cluster_0",
+    "label": "Genesis: ai & community",
+    "era": "early",
+    "msgs": 232,
+    "concepts": [
+      "concept_ai",
+      "concept_community",
+      "concept_agent",
+      "concept_coordination"
+    ]
+  },
+  {
+    "id": "cluster_1",
+    "label": "Genesis: decentralization & governance",
+    "era": "early",
+    "msgs": 93,
+    "concepts": [
+      "concept_decentralization",
+      "concept_governance",
+      "concept_graph",
+      "concept_blockchain"
+    ]
+  },
+  {
+    "id": "cluster_2",
+    "label": "Genesis: trust",
+    "era": "early",
+    "msgs": 36,
+    "concepts": [
+      "concept_trust"
+    ]
+  },
+  {
+    "id": "cluster_3",
+    "label": "Genesis: collective intelligence & network",
+    "era": "early",
+    "msgs": 70,
+    "concepts": [
+      "concept_collective_intelligence",
+      "concept_network",
+      "concept_framework",
+      "concept_infrastructure"
+    ]
+  },
+  {
+    "id": "cluster_4",
+    "label": "Genesis: ethereum",
+    "era": "early",
+    "msgs": 30,
+    "concepts": [
+      "concept_ethereum"
+    ]
+  },
+  {
+    "id": "cluster_5",
+    "label": "Genesis: memory",
+    "era": "early",
+    "msgs": 21,
+    "concepts": [
+      "concept_memory"
+    ]
+  },
+  {
+    "id": "cluster_6",
+    "label": "Genesis: knowledge graph & dao",
+    "era": "early",
+    "msgs": 43,
+    "concepts": [
+      "concept_knowledge_graph",
+      "concept_dao",
+      "concept_narrative",
+      "concept_emergence"
+    ]
+  },
+  {
+    "id": "cluster_7",
+    "label": "Genesis: culture",
+    "era": "early",
+    "msgs": 16,
+    "concepts": [
+      "concept_culture"
+    ]
+  },
+  {
+    "id": "cluster_8",
+    "label": "Genesis: token",
+    "era": "early",
+    "msgs": 15,
+    "concepts": [
+      "concept_token"
+    ]
+  },
+  {
+    "id": "cluster_9",
+    "label": "Genesis: protocol & cosmolocal",
+    "era": "early",
+    "msgs": 19,
+    "concepts": [
+      "concept_protocol",
+      "concept_cosmolocal"
+    ]
+  },
+  {
+    "id": "cluster_10",
+    "label": "Genesis: General Discussion",
+    "era": "early",
+    "msgs": 2362,
+    "concepts": []
+  },
+  {
+    "id": "cluster_11",
+    "label": "Growth: graph & ai",
+    "era": "middle",
+    "msgs": 677,
+    "concepts": [
+      "concept_graph",
+      "concept_ai",
+      "concept_knowledge_graph",
+      "concept_community"
+    ]
+  },
+  {
+    "id": "cluster_12",
+    "label": "Growth: infrastructure & framework",
+    "era": "middle",
+    "msgs": 516,
+    "concepts": [
+      "concept_infrastructure",
+      "concept_framework",
+      "concept_network",
+      "concept_collective_intelligence"
+    ]
+  },
+  {
+    "id": "cluster_13",
+    "label": "Growth: coordination & token",
+    "era": "middle",
+    "msgs": 369,
+    "concepts": [
+      "concept_coordination",
+      "concept_token",
+      "concept_consciousness",
+      "concept_agent"
+    ]
+  },
+  {
+    "id": "cluster_14",
+    "label": "Growth: blockchain & data",
+    "era": "middle",
+    "msgs": 338,
+    "concepts": [
+      "concept_blockchain",
+      "concept_data",
+      "concept_node",
+      "concept_ethereum"
+    ]
+  },
+  {
+    "id": "cluster_15",
+    "label": "Growth: emergence & ontology",
+    "era": "middle",
+    "msgs": 123,
+    "concepts": [
+      "concept_emergence",
+      "concept_ontology",
+      "concept_identity",
+      "concept_resilience"
+    ]
+  },
+  {
+    "id": "cluster_16",
+    "label": "Growth: protocol & governance",
+    "era": "middle",
+    "msgs": 167,
+    "concepts": [
+      "concept_protocol",
+      "concept_governance",
+      "concept_decentralization",
+      "concept_sovereignty"
+    ]
+  },
+  {
+    "id": "cluster_17",
+    "label": "Growth: dao",
+    "era": "middle",
+    "msgs": 76,
+    "concepts": [
+      "concept_dao"
+    ]
+  },
+  {
+    "id": "cluster_18",
+    "label": "Growth: narrative & storyliving",
+    "era": "middle",
+    "msgs": 90,
+    "concepts": [
+      "concept_narrative",
+      "concept_storyliving",
+      "concept_ritual",
+      "concept_screenplay"
+    ]
+  },
+  {
+    "id": "cluster_19",
+    "label": "Growth: web3",
+    "era": "middle",
+    "msgs": 65,
+    "concepts": [
+      "concept_web3"
+    ]
+  },
+  {
+    "id": "cluster_20",
+    "label": "Growth: memory",
+    "era": "middle",
+    "msgs": 57,
+    "concepts": [
+      "concept_memory"
+    ]
+  },
+  {
+    "id": "cluster_21",
+    "label": "Growth: territory",
+    "era": "middle",
+    "msgs": 43,
+    "concepts": [
+      "concept_territory"
+    ]
+  },
+  {
+    "id": "cluster_22",
+    "label": "Growth: culture",
+    "era": "middle",
+    "msgs": 34,
+    "concepts": [
+      "concept_culture"
+    ]
+  },
+  {
+    "id": "cluster_23",
+    "label": "Growth: trust",
+    "era": "middle",
+    "msgs": 18,
+    "concepts": [
+      "concept_trust"
+    ]
+  },
+  {
+    "id": "cluster_24",
+    "label": "Growth: General Discussion",
+    "era": "middle",
+    "msgs": 1700,
+    "concepts": []
+  },
+  {
+    "id": "cluster_25",
+    "label": "Convergence: graph & ai",
+    "era": "late",
+    "msgs": 819,
+    "concepts": [
+      "concept_graph",
+      "concept_ai",
+      "concept_node",
+      "concept_knowledge_graph"
+    ]
+  },
+  {
+    "id": "cluster_26",
+    "label": "Convergence: data & coordination",
+    "era": "late",
+    "msgs": 692,
+    "concepts": [
+      "concept_data",
+      "concept_coordination",
+      "concept_infrastructure",
+      "concept_agent"
+    ]
+  },
+  {
+    "id": "cluster_27",
+    "label": "Convergence: narrative & collective intelligence",
+    "era": "late",
+    "msgs": 603,
+    "concepts": [
+      "concept_narrative",
+      "concept_collective_intelligence",
+      "concept_network",
+      "concept_protocol"
+    ]
+  },
+  {
+    "id": "cluster_28",
+    "label": "Convergence: community & framework",
+    "era": "late",
+    "msgs": 510,
+    "concepts": [
+      "concept_community",
+      "concept_framework",
+      "concept_memory",
+      "concept_trust"
+    ]
+  },
+  {
+    "id": "cluster_29",
+    "label": "Convergence: sovereignty & ethereum",
+    "era": "late",
+    "msgs": 466,
+    "concepts": [
+      "concept_sovereignty",
+      "concept_ethereum",
+      "concept_token",
+      "concept_ontology"
+    ]
+  },
+  {
+    "id": "cluster_30",
+    "label": "Convergence: consciousness & archetype",
+    "era": "late",
+    "msgs": 269,
+    "concepts": [
+      "concept_consciousness",
+      "concept_archetype",
+      "concept_screenplay",
+      "concept_storyliving"
+    ]
+  },
+  {
+    "id": "cluster_31",
+    "label": "Convergence: blockchain & governance",
+    "era": "late",
+    "msgs": 301,
+    "concepts": [
+      "concept_blockchain",
+      "concept_governance",
+      "concept_identity",
+      "concept_decentralization"
+    ]
+  },
+  {
+    "id": "cluster_32",
+    "label": "Convergence: emergence",
+    "era": "late",
+    "msgs": 101,
+    "concepts": [
+      "concept_emergence"
+    ]
+  },
+  {
+    "id": "cluster_33",
+    "label": "Convergence: territory & dao",
+    "era": "late",
+    "msgs": 202,
+    "concepts": [
+      "concept_territory",
+      "concept_dao",
+      "concept_myth"
+    ]
+  },
+  {
+    "id": "cluster_34",
+    "label": "Convergence: culture",
+    "era": "late",
+    "msgs": 64,
+    "concepts": [
+      "concept_culture"
+    ]
+  },
+  {
+    "id": "cluster_35",
+    "label": "Convergence: ritual",
+    "era": "late",
+    "msgs": 25,
+    "concepts": [
+      "concept_ritual"
+    ]
+  },
+  {
+    "id": "cluster_36",
+    "label": "Convergence: web3",
+    "era": "late",
+    "msgs": 24,
+    "concepts": [
+      "concept_web3"
+    ]
+  },
+  {
+    "id": "cluster_37",
+    "label": "Convergence: resilience",
+    "era": "late",
+    "msgs": 20,
+    "concepts": [
+      "concept_resilience"
+    ]
+  },
+  {
+    "id": "cluster_38",
+    "label": "Convergence: canon & lore",
+    "era": "late",
+    "msgs": 24,
+    "concepts": [
+      "concept_canon",
+      "concept_lore"
+    ]
+  },
+  {
+    "id": "cluster_39",
+    "label": "Convergence: sacred",
+    "era": "late",
+    "msgs": 17,
+    "concepts": [
+      "concept_sacred"
+    ]
+  },
+  {
+    "id": "cluster_40",
+    "label": "Convergence: stewardship",
+    "era": "late",
+    "msgs": 15,
+    "concepts": [
+      "concept_stewardship"
+    ]
+  },
+  {
+    "id": "cluster_41",
+    "label": "Convergence: General Discussion",
+    "era": "late",
+    "msgs": 1451,
+    "concepts": []
+  }
+]

@@ -1,0 +1,1144 @@
+[
+  {
+    "source": "actor_kropp",
+    "target": "actor_safeguard",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🔥"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": []
+    }
+  },
+  {
+    "source": "actor_fkayy_kaloex",
+    "target": "actor_kropp",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_fkayy_kaloex",
+    "target": "actor_joshua___bonfires_ai",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "✨",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_tessa_",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "✨",
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_juan_keymer",
+    "interaction_count": 16,
+    "dominant_glyphs": [
+      "⚡",
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "partial",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting",
+        "analytical",
+        "generative"
+      ]
+    }
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_tessa_",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_cr3myy",
+    "target": "actor_kropp",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": []
+    }
+  },
+  {
+    "source": "actor_cr3myy",
+    "target": "actor_tessa_",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": []
+    }
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "🧭",
+      "✨"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_vishnu_vennelakanti",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "✨"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": []
+    }
+  },
+  {
+    "source": "actor_iqra",
+    "target": "actor_kropp",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": []
+    }
+  },
+  {
+    "source": "actor_inga",
+    "target": "actor_joshua___bonfires_ai",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "✨"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": []
+    }
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "interaction_count": 3,
+    "dominant_glyphs": [
+      "🧭",
+      "🔥"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_juan_keymer",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "🧭",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting",
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_pixie",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "⚡",
+      "✨"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_mila_from_the_metaverse",
+    "interaction_count": 3,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_mila_from_the_metaverse",
+    "interaction_count": 3,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_mila_from_the_metaverse",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "interaction_count": 4,
+    "dominant_glyphs": [
+      "🔥",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": []
+    }
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_socrat0x",
+    "interaction_count": 285,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "reflective"
+      ]
+    }
+  },
+  {
+    "source": "actor_mila_from_the_metaverse",
+    "target": "actor_socrat0x",
+    "interaction_count": 58,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "partial",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "generative"
+      ]
+    }
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_socrat0x",
+    "interaction_count": 65,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "reflective"
+      ]
+    }
+  },
+  {
+    "source": "actor_pixie",
+    "target": "actor_socrat0x",
+    "interaction_count": 26,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_juan_keymer",
+    "target": "actor_socrat0x",
+    "interaction_count": 16,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "generative"
+      ]
+    }
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_socrat0x",
+    "interaction_count": 116,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "reflective"
+      ]
+    }
+  },
+  {
+    "source": "actor_iqra",
+    "target": "actor_socrat0x",
+    "interaction_count": 17,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "partial",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "philosophical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_daniel",
+    "target": "actor_kropp",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🔥"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": []
+    }
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_socrat0x",
+    "interaction_count": 140,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "philosophical"
+      ]
+    }
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "🧭",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_joshua___bonfires_ai",
+    "interaction_count": 3,
+    "dominant_glyphs": [
+      "🧭",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting",
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_inga",
+    "target": "actor_socrat0x",
+    "interaction_count": 5,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "partial",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_anshuman",
+    "target": "actor_socrat0x",
+    "interaction_count": 10,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "partial",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "reflective"
+      ]
+    }
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_kropp",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_daniel",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_pablo_cabruca",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_anshuman",
+    "target": "actor_pablo_cabruca",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_mila_from_the_metaverse",
+    "target": "actor_pablo_cabruca",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_pablo_cabruca",
+    "target": "actor_socrat0x",
+    "interaction_count": 25,
+    "dominant_glyphs": [
+      "🧭",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting",
+        "analytical",
+        "generative"
+      ]
+    }
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_socrat0x",
+    "interaction_count": 304,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "reflective"
+      ]
+    }
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_plat0x_eth__________bonfires_ai",
+    "interaction_count": 5,
+    "dominant_glyphs": [
+      "🧭",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting",
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_pablo_cabruca",
+    "interaction_count": 11,
+    "dominant_glyphs": [
+      "🧭",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting",
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_kropp",
+    "target": "actor_steve_phillips___cypherpunk_utopia_residency",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_steve_phillips___cypherpunk_utopia_residency",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🧭",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_steve_phillips___cypherpunk_utopia_residency",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🧭",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_daniel",
+    "target": "actor_socrat0x",
+    "interaction_count": 41,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "partial",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "reflective"
+      ]
+    }
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_egg",
+    "interaction_count": 3,
+    "dominant_glyphs": [
+      "⚡",
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting",
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_socrat0x",
+    "target": "actor_steve_phillips___cypherpunk_utopia_residency",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "🔁",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_francesca",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "🧭"
+    ],
+    "resonance_summary": {
+      "volatility": "low",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_bret_warshawsky",
+    "target": "actor_syntony_robbins",
+    "interaction_count": 62,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "generative"
+      ]
+    }
+  },
+  {
+    "source": "actor_joshua___bonfires_ai",
+    "target": "actor_syntony_robbins",
+    "interaction_count": 7,
+    "dominant_glyphs": [
+      "⚡",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_egg",
+    "target": "actor_syntony_robbins",
+    "interaction_count": 46,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "partial",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_rodo_____",
+    "target": "actor_socrat0x",
+    "interaction_count": 7,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting",
+        "reflective"
+      ]
+    }
+  },
+  {
+    "source": "actor_privacymage",
+    "target": "actor_socrat0x",
+    "interaction_count": 28,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "partial",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_mo_web",
+    "target": "actor_socrat0x",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": []
+    }
+  },
+  {
+    "source": "actor_mo_web",
+    "target": "actor_syntony_robbins",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "⚡",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_plat0x_eth__________bonfires_ai",
+    "target": "actor_syntony_robbins",
+    "interaction_count": 5,
+    "dominant_glyphs": [
+      "⚡",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_juan_keymer",
+    "target": "actor_syntony_robbins",
+    "interaction_count": 1,
+    "dominant_glyphs": [
+      "⚡",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_socrat0x",
+    "target": "actor_spencer_graham",
+    "interaction_count": 7,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_ian_tairea",
+    "target": "actor_socrat0x",
+    "interaction_count": 15,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "partial",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_ian_tairea",
+    "target": "actor_syntony_robbins",
+    "interaction_count": 2,
+    "dominant_glyphs": [
+      "⚡",
+      "🧠"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_michael_____",
+    "target": "actor_socrat0x",
+    "interaction_count": 21,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_phillip_mccombs",
+    "target": "actor_socrat0x",
+    "interaction_count": 13,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "present",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical"
+      ]
+    }
+  },
+  {
+    "source": "actor_phillip_mccombs",
+    "target": "actor_syntony_robbins",
+    "interaction_count": 9,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  },
+  {
+    "source": "actor_socrat0x",
+    "target": "actor_vitali",
+    "interaction_count": 19,
+    "dominant_glyphs": [
+      "🧠",
+      "⚡"
+    ],
+    "resonance_summary": {
+      "volatility": "high",
+      "transformation": "absent",
+      "coherence": "absent",
+      "participation": "narrow",
+      "archetypal_resonance": [
+        "analytical",
+        "orienting"
+      ]
+    }
+  }
+]
