@@ -1,12 +1,13 @@
 /**
- * ControlBar.jsx — Pass 2
- * Enhanced with highlight modes and focus controls
+ * ControlBar.jsx — Pass 3.5
+ * Enhanced with thread navigator toggle, methodology info button
  */
 import React from 'react';
 
 export default function ControlBar({
   filters, onFilterChange, conceptList,
-  focusedConcept, onFocusConcept, focusedActor, onFocusActor
+  focusedConcept, onFocusConcept, focusedActor, onFocusActor,
+  showThread, onToggleThread, onToggleMethodology,
 }) {
   return (
     <div className="control-bar">
@@ -63,6 +64,23 @@ export default function ControlBar({
           onClick={() => onFilterChange('showHarmonics', !filters.showHarmonics)}
         >
           ∿ Harmonics
+        </button>
+      </div>
+
+      <div className="control-group">
+        <button
+          className={`control-btn ${showThread ? 'active thread-btn' : ''}`}
+          onClick={onToggleThread}
+          title="Open thread navigator — view conversation alongside spatial graph"
+        >
+          ≡ Thread
+        </button>
+        <button
+          className="control-btn methodology-btn"
+          onClick={onToggleMethodology}
+          title="How this works — methodology transparency"
+        >
+          ? Method
         </button>
       </div>
 

@@ -24,14 +24,43 @@
  *    inline callbacks created new references every render, defeating memo.
  *    FIX: Stable position arrays via useMemo, stable callbacks via useCallback.
  */
-import React, { useMemo, useRef, useState, useCallback, memo } from 'react';
-import { Canvas } from '@react-three/fiber';
+import React, { useMemo, useRef, useState, useCallback, memo, useEffect } from 'react';
+import { Canvas, useThree } from '@react-three/fiber';
 import { OrbitControls, Text, Billboard, Line } from '@react-three/drei';
 import * as THREE from 'three';
 import {
   layoutClusters, layoutArtifacts, getCategoryColor,
   getClusterColor, getActorPositions, ERA_CONFIG,
 } from '../utils/spatial';
+
+// ── Camera Sync — connects external refs to the R3F scene ──
+function CameraSync({ controlsRef, cameraRef, onZoomKey }) {
+  const { camera, controls } = useThree();
+
+  useEffect(() => {
+    if (cameraRef) cameraRef.current = camera;
+  }, [camera, cameraRef]);
+
+  useEffect(() => {
+    if (controlsRef && controls) controlsRef.current = controls;
+  }, [controls, controlsRef]);
+
+  useEffect(() => {
+    if (!onZoomKey) return;
+    function handleKey(e) {
+      // Don't fire if user is typing in an input
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+      if (e.key === 'z' || e.key === 'Z') onZoomKey('overview');
+      if (e.key === '1') onZoomKey('era-early');
+      if (e.key === '2') onZoomKey('era-middle');
+      if (e.key === '3') onZoomKey('era-late');
+    }
+    window.addEventListener('keydown', handleKey);
+    return () => window.removeEventListener('keydown', handleKey);
+  }, [onZoomKey]);
+
+  return null;
+}
 
 // ── Era Ground Marker (static — never changes) ────────────
 const EraMarker = memo(function EraMarker({ era, config }) {
@@ -513,6 +542,7 @@ const HarmonicArc = memo(function HarmonicArc({
 // ── Scene Content ──────────────────────────────────────────
 function SceneContent({
   data, lookups, filters, timeRange, selectedNode, onSelectNode, focusedConcept, focusedActor, harmonics,
+  controlsRef, cameraRef, onZoomKey,
 }) {
   const { concepts, actors, clusters } = data;
 
@@ -688,13 +718,23 @@ function SceneContent({
       })()}
 
 
+      <CameraSync controlsRef={controlsRef} cameraRef={cameraRef} onZoomKey={onZoomKey} />
+
       <OrbitControls
-        enablePan enableZoom enableRotate
+        ref={controlsRef}
+        enablePan
+        enableZoom
+        enableRotate
+        enableDamping
+        dampingFactor={0.08}
+        panSpeed={1.2}
+        zoomSpeed={1.0}
+        rotateSpeed={0.7}
         maxPolarAngle={Math.PI / 2.3}
         minPolarAngle={Math.PI / 6}
-        maxDistance={90}
-        minDistance={8}
-        target={[0, 0, 0]}
+        maxDistance={130}
+        minDistance={4}
+        touches={{ ONE: 2, TWO: 1 }}
       />
     </>
   );
@@ -702,15 +742,25 @@ function SceneContent({
 
 // ── Canvas Wrapper ─────────────────────────────────────────
 export default function IsometricScene(props) {
-  const { harmonics, ...rest } = props;
+  const { harmonics, controlsRef, cameraRef, onZoomKey, ...rest } = props;
   return (
     <Canvas
       className="scene-canvas"
-      camera={{ position: [35, 30, 35], fov: 42, near: 0.1, far: 250 }}
+      camera={{ position: [0, 90, 60], fov: 42, near: 0.1, far: 350 }}
       gl={{ antialias: true, alpha: false }}
-      onCreated={({ gl }) => gl.setClearColor('#060a14')}
+      onCreated={({ gl }) => {
+        gl.setClearColor('#060a14');
+        // Sync camera ref immediately on canvas creation
+        if (cameraRef) cameraRef.current = gl.domElement.ownerDocument.__r3fCamera;
+      }}
     >
-      <SceneContent {...rest} harmonics={harmonics} />
+      <SceneContent
+        {...rest}
+        harmonics={harmonics}
+        controlsRef={controlsRef}
+        cameraRef={cameraRef}
+        onZoomKey={onZoomKey}
+      />
     </Canvas>
   );
 }

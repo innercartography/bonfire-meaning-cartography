@@ -15,7 +15,7 @@ export function useDataLoader() {
       try {
         const [messages, concepts, actors, clusters, edges, timeline,
                meaningTags, sessions, resonance, edgeMeaning,
-               harmonics] = await Promise.all([
+               harmonics, sourceManifest] = await Promise.all([
           fetch('/data/normalized_messages.json').then(r => r.json()),
           fetch('/data/concepts.json').then(r => r.json()),
           fetch('/data/actors.json').then(r => r.json()),
@@ -29,9 +29,12 @@ export function useDataLoader() {
           fetch('/data/edge_meaning.json').then(r => r.json()).catch(() => []),
           // Harmonics overlay
           fetch('/data/harmonics.json').then(r => r.json()).catch(() => []),
+          // Source manifest (provenance)
+          fetch('/data/source_manifest.json').then(r => r.json()).catch(() => null),
         ]);
         setData({ messages, concepts, actors, clusters, edges, timeline,
-                  meaningTags, sessions, resonance, edgeMeaning, harmonics });
+                  meaningTags, sessions, resonance, edgeMeaning, harmonics,
+                  sourceManifest });
       } catch (e) {
         setError(e.message);
       } finally {

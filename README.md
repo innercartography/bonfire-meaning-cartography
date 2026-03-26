@@ -20,16 +20,23 @@
 
 ## What Is This?
 
-Bonfires Meaning Cartography transforms Telegram group conversation exports into a **navigable isometric world** where you can see:
+Bonfires Meaning Cartography transforms conversation exports into a **navigable isometric world** where you can see:
 
 - **How concepts emerged** and evolved over time
 - **Which actors** seeded, amplified, reframed, or challenged ideas  
 - **Where meaning shifted** — from emergence to convergence, from grounded to abstract
 - **How interaction patterns** recur across sessions and clusters
 
-This is not a generic graph visualization. It's a **spatial analysis tool** that makes conversational dynamics legible at a glance.
+This is not a generic graph visualization. It's a **spatial reasoning interface** that makes conversational dynamics legible at a glance — transforming the endless linear stream of text into navigable topology.
 
 > **No LLMs. No APIs. No scoring.** Everything is deterministic, heuristic-driven, and focused on interpretability over expressiveness.
+
+### Multi-Source Ingestion
+
+Bonfire accepts data from multiple conversation formats:
+- **Telegram HTML exports** — the original pipeline
+- **Markdown threads** — ChatGPT exports, meeting notes, any conversation-as-text
+- Any source that can be normalized to the message format
 
 ---
 
@@ -164,7 +171,8 @@ Individual messages are tagged with up to **2 glyphs**: one for their primary re
 
 | Script | Purpose | Input | Output |
 |--------|---------|-------|--------|
-| `parse-telegram.mjs` | HTML → JSON | `telegram/messages*.html` | `normalized_messages.json` |
+| `parse-telegram.mjs` | HTML → JSON | `telegram/messages*.html` | `normalized_messages.json`, `source_manifest.json` |
+| `parse-markdown.mjs` | Markdown → JSON | `markdown_threads/*.md` | `normalized_messages.json`, `source_manifest.json` |
 | `analyze-data.mjs` | Concept extraction, clustering, actor profiling | `normalized_messages.json` | `concepts.json`, `clusters.json`, `actors.json`, `graph_edges.json`, `timeline_states.json` |
 | `meaning-evolution.mjs` | Glyph tagging, sessions, resonance | All Pass 2 outputs | `meaning_tags.json`, `sessions.json`, `resonance.json`, `edge_meaning.json` |
 | `detect-harmonics.mjs` | Latent cross-cluster connections | All Pass 2 outputs | `harmonics.json` |
@@ -172,8 +180,11 @@ Individual messages are tagged with up to **2 glyphs**: one for their primary re
 ### Run the full pipeline
 
 ```bash
-# Step 1: Parse Telegram exports
+# Step 1a: Parse Telegram exports
 node scripts/parse-telegram.mjs
+
+# Step 1b: OR parse markdown threads (ChatGPT exports, notes, etc.)
+node scripts/parse-markdown.mjs ./path/to/markdown/folder
 
 # Step 2: Extract concepts, clusters, actors
 node scripts/analyze-data.mjs
@@ -291,6 +302,22 @@ bonfire/
 - **Correctness over expressiveness** — conservative glyph assignment, no false positives
 - **Spatial reasoning** — temporal X-axis, cluster districts, concept pillars create a readable landscape
 - **No reputation engine** — this system understands patterns, not people
+- **Methodology transparency** — all scoring heuristics are exposed to the user
+- **Source-agnostic** — any conversation format that can be normalized to messages
+
+### Spatial Intelligence Thesis
+
+The endless linear stream of conversation is easier to comprehend spatially. This interface transforms sequential text into a navigable landscape where temporal flow, conceptual density, and actor presence become visible dimensions rather than hidden metadata.
+
+### UI Enhancements (v3.5)
+
+| Feature | Description |
+|---------|-------------|
+| **Thread Navigator** | Split-view showing source conversation alongside spatial graph, with search and contextual filtering |
+| **Methodology Info** | Tabbed panel exposing exactly how groundedness, abstraction, clustering, and glyphs work |
+| **Philosophy Overlay** | Cycling design philosophy statements + expandable spatial intelligence thesis |
+| **Source Attribution** | `source_manifest.json` tracks data provenance, parser type, date ranges, methodology |
+| **Markdown Ingestion** | `parse-markdown.mjs` accepts ChatGPT exports, meeting notes, any text conversation |
 
 ---
 

@@ -177,6 +177,38 @@ if (dateRange.length) {
   console.log(`Date range: ${min.toISOString().split('T')[0]} to ${max.toISOString().split('T')[0]}`);
 }
 
+// --- Source Manifest ---
+const timestamps = allMessages.filter(m => m.timestamp).map(m => m.timestamp).sort();
+const manifest = {
+  source: {
+    type: 'telegram_export',
+    parser: 'parse-telegram.mjs',
+    source_directory: EXPORT_DIR,
+    files: HTML_FILES.map(f => ({
+      filename: f.filename,
+      path: f.path,
+    })),
+    total_files: HTML_FILES.length,
+    total_messages: allMessages.length,
+    date_range: timestamps.length >= 2
+      ? [timestamps[0], timestamps[timestamps.length - 1]]
+      : null,
+    unique_authors: authors.size,
+    top_authors: sortedAuthors.slice(0, 20).map(([name, count]) => ({ name, count })),
+    pipeline_version: '3.0',
+    parsed_at: new Date().toISOString(),
+  },
+  methodology: {
+    format_detection: 'Telegram Desktop HTML export auto-detection',
+    timestamp_handling: 'Parsed from Telegram date format (DD.MM.YYYY HH:MM:SS UTC±offset)',
+    reply_inference: 'Extracted from Telegram reply_to anchor elements with cross-file resolution',
+    author_detection: 'Extracted from .from_name elements with joined message continuation',
+  },
+};
+
+writeFileSync(join(OUTPUT_DIR, 'source_manifest.json'), JSON.stringify(manifest, null, 2));
+console.log(`\nWrote source manifest to ${join(OUTPUT_DIR, 'source_manifest.json')}`);
+
 // --- Utility functions ---
 
 function parseTelegramDate(dateStr) {
